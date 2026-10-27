@@ -1,0 +1,301 @@
+Action, authorisation and account across nine connected domains, with three ways to position them. Every function in society answers three different questions: what is being done, whether it may be done, and what account is kept of it. The Nine Bodies of Authority gives each question its own position and repeats that pattern across nine domains, from government to everyday
+
+cultural life. The model classifies functions, not institutions. One organisation can hold several positions, and one person can move between them in a single day, but the positions never merge. The model has two parts. Parts I to V set out the nine bodies: the three positions, the principle that keeps them apart, the nine domains, and the loop that
+
+connects them, demonstrated through two worked cases. Part VI places the bodies on a three-bit cube that records how open each body is to the person in front of it, and sets out three routes through that cube. Part VII records what is settled, how the model was built, and its terms. An embodied agent enacts or requests. An authoritative
+
+body approves or denies. An authoritative agent records and reviews. The returned account decides what happens next. An action shows that something happened. An approval shows that a designated body allowed it. A reviewed account shows the conditions, the process and the consequences. None of the three stands in for another. An approved action can still be carried out badly,
+
+and a well-executed action can still have been wrongly approved. This is what makes responsibility locatable. When an operation fails, the model separates four failures: an inadequate proposal, an unjustified approval, poor execution, and an incomplete or misleading account. They can occur together, but each one demands its own remedy. The three positions form a circuit, and the circuit has
+
+two movements. The first is submission. The embodied agent enacts and submits: it carries something into effect and puts it forward for decision. Enact is chosen over act deliberately. To act is to perform; to enact is to give something formal effect, as a law is enacted or an authorised order carried out. The authoritative body approves or denies. The
+
+authoritative agent records and reviews that decision and returns the account to the embodied agent. The second is the continuing loop. Holding the returned account, the embodied agent now responds and requests: it answers what came back and asks for what comes next. The authoritative body approves or denies again, the authoritative agent records and reviews again, and the account
+
+comes back again. The account belongs to the agent who receives it, to use, to influence and to decide upon. The third position is separate from the authoritative body, yet belongs to it: it is the body’s self-examination. It never approves or denies, and it never acts. It consolidates an account of what the body has done, reviews that account
+
+against the conditions around it and against baseline comparisons, and returns a recorded assessment that informs the next request and the next decision. The embodied agent is a position, not a headcount: a whole workforce can occupy it. The account does not wait for the action to finish. Existing records inform a request before it is made, an approval while
+
+it is considered, and an intervention while it runs. A body of authority is the whole triad, not just its approving position. The model begins with concentrated power. A body that can watch people, interpret what it sees and act against them, all under one roof, answers to no one. Picture a county police force. Its officers patrol and respond
+
+in person, among the people they serve. Now give the same office ten thousand live camera feeds from the suburb it patrols, an analytic system to read them, and the authority to dispatch on whatever that system flags. The officers no longer meet the public on equal terms. They watch it from a room. That is the arrangement the model
+
+refuses. The three capabilities are therefore held apart. Surveillance keeps the record, intelligence weighs information and authorises operations, and enforcement carries them out. They cooperate case by case, under authorisation that is itself recorded and reviewable. Every handoff runs through a defined channel: who may request footage, for what purpose, who approves the request, what analysis is permitted, what is
+
+logged, and who may challenge it. The live monitoring of a whole population never sits in the hands of the people who make arrests. Cooperation never grants access. Taking part in a shared process gives no position the infrastructure, resources or powers of another. Every triad is built by the same test: which capabilities must never be held together? Each
+
+position is defined as much by what it cannot do as by what it does. The three positions are distinct and cooperating. None is subordinate to another and none dominates. No triad dominates another. Within each triad the authoritative body decides whether an action proceeds, which is power over that action and never power over the other bodies. Intelligence decides
+
+operations in body 3 exactly as the judicial body decides applications in body 2. Intelligence shows why the rule matters most where power gathers most. It is the apex of body 3, the point where information is fed up to the directors and heads who decide. Because it decides, it holds neither the cameras nor the hands. Surveillance keeps the
+
+record, enforcement keeps the field, intelligence keeps the decision, and each weighs against the other two like the arms of a balance. Auditorial is the one term the model coins. It names a power every person holds simply by existing: the power to scrutinise institutions, individually and collectively, without holding any of their other powers. Through it the public, as
+
+its own collective, watches everything else. The auditorial position records and reviews authorised material, procedures and outcomes. It cannot argue, judge, enforce, confine or surveil. However strong its findings, it never turns them into a ruling or an arrest by its own hand. Records authorised material Reviews procedures and outcomes Tests accounts against each other Reports discrepancies within its remit
+
+Argue a case Judge Enforce Confine Gather intelligence or surveil Its output is a report: a declared method, an analysis of the data, and a cross-examination of the accounts, written within the bounds and requirements a judicial ruling sets after legal argument. Cross-examination here means testing accounts against one another inside the report, not advocacy in a courtroom. The report
+
+is a bounded assessment others act upon, and its findings stay open to challenge. Auditorial has no hands, so its findings travel through the chain that already exists. Whether a flagged matter is acted on rests on precedent, set by the judicial body in earlier cases. Precedent rests on legislation and on the legal argument that interprets it. Both rest
+
+on the constitutional enactment of government, which rests on what the public wants, and the whole national order sits within international law and the diplomatic relations that carry it. A finding enters that chain as a concern. The chain decides the outcome, and any order or enforcement that follows belongs to the body authorised to give it. That limit is
+
+what bounds its capacity for corruption. A position that cannot argue, judge, enforce, confine or surveil cannot convert what it finds into power. Legal and judicial power shape how auditorial scrutiny is conducted, and auditorial scrutiny holds legal and judicial power to account. Auditorial inspects how power was used. It does not watch private life. The line runs between evidence
+
+of institutional conduct, which it examines, and the private lives of people, which it never enters. Holding that line keeps public scrutiny from becoming universal surveillance. Classification follows the activity being performed, not the organisation performing it. A bank deciding whether to extend a loan occupies the commercial position. The same bank maintaining and reviewing the account of balances, obligations
+
+and repayments occupies the financial position. The two happen in one building, often at one desk, and they remain two functions. A journalist who makes entertainment is creating content at that moment, and a creator who investigates a public claim is doing journalism at that moment. The three positions repeat across nine domains. Each domain is a complete body of
+
+authority. Every name is held to one or two words, so the names stay comparable across the table. Governmental agents turn public concern into proposals and administer what is approved, including military defence. The constitutional body tests every proposal against the foundational distribution of powers and protections, in the manner of a supreme court. Its permission is not endorsement: a
+
+constitutional approval says a proposal is lawful, not that it is wise. A constitution is something a government must adhere to and something a people can amend, and amendment is a process of its own: public agreement does not rewrite a constitution automatically. Diplomatic agents hold the account of relationships, commitments and conditions beyond the border. They are the nation’s
+
+representatives and delegates, and each carries the whole authority in a single person. That is what gives the position its review. The diplomat consolidates an account of the nation represented, compares it against the laws, decisions and circumstances of other nations and against the external limits, pressures and baseline comparisons the nation operates within, and returns that assessment home. The
+
+review faces outward in order to inform the inside. Legal agents build arguments, file applications and answer decisions. The judicial body rules on them, and its rulings set the precedent later cases rely on. Auditorial records the evidence, procedure, reasoning and outcome, and returns that account to everyone with standing to question it. Enforcement requests operations and carries them out
+
+in the world. Its agents are the public face of the triad: the officers a person calls, meets and reports to. Intelligence assesses information and decides whether each operation proceeds. It is the knowledge architecture of the triad: the agencies, analysts and systems in which information is gathered, weighed and held, and the heads who decide on it. It is
+
+where this triad’s decisions are made, never its eyes or its hands. Surveillance holds the observational record on infrastructure controlled separately from both. Development logistics covers architecture, design, planning, construction, maintenance and the movement of people and goods. Transport is one expression of it, and its wider function is organising change in the material world. Planning proposals belong here, with
+
+the agents who draw and submit them. Civic welfare approves or denies proposals against community requirements such as access, disruption and the needs of affected residents, and against the health of the population the work touches. Setting district rules is an authorising act and sits here. Property stewardship holds the account of land, buildings, tenure, district and location records, possessions,
+
+ownership claims, use rights and asset condition. It records who owns, claims, occupies or manages what, and checks compliance with the rules civic welfare sets. Coordinating and recording maintenance belongs here; carrying out the repair belongs to development logistics. Maintaining a building and maintaining the record of who owns it are separate functions, even inside one organisation. Energy resources generates
+
+and extracts: power, fuel, mining and forestry, drawing raw supply from the world for direct use as fuel or material. Sanitation decides whether that activity is properly contained and handled, holding it within thresholds of cleanliness, containment and waste handling. Preservational keeps the account of ecological conditions and consequences. A sanitation permit does not make an outcome acceptable. Only the
+
+preservational account shows whether it was. Medical agents treat, care and intervene, including in health and fitness. The scientific body approves or denies against established evidence, and a result counts for it only when it holds up to testing and repetition. Nutritional provision records and reviews production, preparation, availability, consumption, diets and requirements: the whole supply of what people take
+
+in. Pharmaceuticals divide along the same line: prescribing and administering a drug is medical, and accounting for what people are supplied to consume is nutritional provision. Cooking a meal is an action. Accounting for whether people are actually nourished is the authoritative function. Manufacturing produces goods to authorised commercial requirements; read widely, it is the whole system of supply and
+
+demand that turns orders into things. Commercial approves or denies proposals, commissions, contracts, loans and commitments. Financial records and reviews accounts, capital, transactions, investments and obligations: the ledgers of banks, the positions of investors and brokers, the assessments of tax authorities. Funding and energy both sustain an operation, yet they remain separate categories: one is an economic relationship and the
+
+other is physical capacity. Content creation produces expressive work: performance, entertainment and commentary. Media distribution decides access, hosting, deployment, publication and circulation. Its occupants are platform founders and administrators, network programmers and the people who deploy servers and set the rules of reach. Its approval takes three forms: permission to publish, the decision to recommend or share, and the audience’s
+
+acceptance of the claim. News journalism investigates and returns the account. Publishing words or video does not make anyone a journalist. Purpose decides the position. Cultural agents carry family, community and everyday social life through homes, workplaces and gatherings. The educational body approves or denies guidance and qualifications against knowledge and competence requirements. It certifies competence; it does not license
+
+cultural life. The religious position records and reviews conduct against spiritual and ethical frameworks, ethical frameworks without religion included. It asks whether inherited interpretations still hold, whether practice matched professed principle, and what now needs reconsidering. Acting, permitting and accounting are different questions. No answer to one settles the others. Functional distinction locates responsibility. A failed proposal, a bad approval,
+
+poor execution and a misleading account are different failures with different remedies. The account must reach someone who can respond. A record that informs no later request, decision, correction or challenge has no corrective power. Every domain depends on conditions it cannot produce alone. Public authority needs implementation. Implementation needs infrastructure, resources and people. People need health, nourishment, goods and
+
+economic coordination. Accountability needs communication and social life. Connections between domains provide recourse. When one route closes, an account can travel through another body and return as pressure on the first. Together these make the model more than a list of professions. It is a classification of capabilities joined to an account of how social activity is sustained and made
+
+answerable. The nine bodies run in a fixed order, and body 9 returns to body 1. Governmental activity gives public authority its basis and its accountability. Legal activity gives claims and disputes an organised means of submission and response. Enforcement connects authorised decisions to interventions in the world. Development logistics supplies the planning, infrastructure, maintenance and movement those interventions require.
+
+Energy resources supplies material and energetic capacity. Medical care and nutritional provision sustain the people doing the work. Manufacturing, commercial and financial functions handle goods, commitments and the accounting of resources. Creation, distribution and journalism handle expression, circulation and the public account. Cultural life is where people meet, contest and live with all of it. Their shared conviction becomes public
+
+expectation, and that expectation becomes government’s agenda. The order descends through authority, access and resources. It runs from the body that frames public power, through the bodies that give that power legal form and practical force, then the material, human, economic and expressive conditions that sustain it, and finally into the everyday life that answers back. The loop is the
+
+route authority travels and the route an account travels back. Dependencies run wider than the loop. Development depends on finance, medicine on logistics, and journalism on people, equipment and power. The loop traces how authority flows, and the network of dependencies shows what each body needs to function. A dependency names a need. It does not certify that the need
+
+is met. Funding and energy show why the categories stay apart even where they combine: both drive an operation the way fuel and finance both keep an engine running, and each still has its own triad to account for it. The loop also reads in reverse, as evidence. When a story refused by its distributor reaches the public through cultural
+
+life and returns as pressure, the link that carried it is alive, and a live link testifies to the bodies behind it. Government is still holding itself to the transparent release of truth. Law is still carrying claims and representing rights in court. Enforcement still has agents in the field gathering what is real and deciding on it. Those agents
+
+can still move and plan their operations, and energy still powers them. Each live link is evidence that the bodies it depends on are working. Each broken link shows where to look. Body 9 closes the loop. A community’s religious and ethical life is the democratic expression of convictions that are hard to consolidate into single claims: what is owed
+
+to a neighbour, what honesty requires, what a shared resource means. Those convictions shape what the population expects. The population makes government representative on its behalf, and through participation, advocacy, voting and representation its expectations become government’s agenda, where they are argued into claims and the constitution is tested, rectified or amended in response. The loop carries shared conviction into
+
+explicit proposals, carries proposals into practical consequences, and carries those consequences back into public understanding. What moves through it is an interpretation of reality, not reality itself. “Law” in this model has three registers. All three enter the same argument: in the water case, test results constrain the claims about the water, ethical commitments define responsibility, and public law sets
+
+the remedy. They remain distinct. A ruling settles a question within its authority, but it does not settle physical fact. Religious review has to be able to question its own past readings in the light of evidence, or the review becomes a defence and stops being an account. A review resolves in one of two ways, and the model keeps
+
+them apart. A new interpretation forms inside a tradition: religious review reaffirms an earlier reading, exposes a tension, or reinterprets what a duty requires now, and the tradition’s own process decides whether that reading becomes canonical. A new law forms in the state: the account goes forward as a request, governmental agents draft and submit, and the constitutional body approves
+
+or denies. Where a law already exists, legal agents argue it and the judicial body rules. In the water case both happen. The tradition comes to hold that care for a neighbour includes honesty about shared dangers, and the public asks for a law requiring water-test results to be published. Religious review motivates and informs the legal change; it never
+
+enacts it. When review reaffirms an old reading, it explains why the new evidence leaves its commitments intact. When it finds tension, it says so, and returns that tension to community life to be lived with, argued over and changed. Whatever law results stays open to review, and the loop continues. Residents who share a water supply suspect contamination. The
+
+concern forms in bodies 8 and 9 before it ever reaches government. A resident films the discoloured water and posts the video: content creation, enact and submit. Media distribution lets it circulate, and viewers accept or reject what it claims. Both are approvals, and rejection still spreads it. News journalism checks the claim, tests the evidence and returns a fuller
+
+account. That account enters cultural life through families, workplaces and neighbours, and a community meeting is called to request precautions. At the meeting the educational body endorses or rejects the proposed guidance, and an informed speaker explains the grounds. Religious review then asks how the response fits the community’s inherited understanding of reality, truth and its obligations to others. It
+
+returns a shared conviction: protecting our neighbours requires honest disclosure of dangers to the water we share. Through participation, advocacy, voting and representation, that conviction becomes a demand on government. Religious communities contribute alongside every other community and citizen. The conviction carries weight because it is shared, not because one community speaks for everyone. The same person moves through several
+
+positions in that sequence. The resident who filmed the water is a creator, then an audience member, then a voice at the meeting. The positions do not merge because she occupies them in turn. From there the concern travels the whole loop. A journalist holds an evidenced account of an over-budget bridge contract, and the main media distributor refuses to
+
+carry it. The model shows where the account goes next. A refusal in one domain does not end the matter while another legitimate route remains. That is the purpose of the descending order: a distributor holds a veto over its own channel and over nothing else. Two conditions govern that route: The route must be genuinely open. If the same
+
+gatekeeper controls the alternative channel, renaming it creates no new path. Circulation is not truth. A true account and a false rumour can both spread. The route guarantees a hearing, and evidence and review decide the claim. The structure is set. The next stage of construction fills in the operating rules: A cannot-do list for every triad, built to the
+
+standard auditorial already meets. Who occupies each authorising position, and where its remit ends. What makes an account independent enough and open enough to challenge. How conflicting approvals or accounts are resolved. Further routes of recourse, beyond the journalism-to-culture route. Cases that cross several domains at once. A bank collapse is the next case to run through the loop. Part
+
+VI places bodies 2 to 9 on the eight corners of a cube. Each body receives a three-bit code that records how each of its positions stands toward the person in front of it. The cube then shows which complete routes through society are possible when one relationship changes at a time. A 1 marks a relationship in focus, at
+
+high resolution. It runs both ways on equal terms: your influence over the position stands in balanced proportion to your will, and the pathway is open for transformative change between you. A 0 marks a relationship out of focus: it runs one way, or returns on unequal terms. A 1 requires both conditions, so influence that flows both ways but
+
+unequally scores 0. Every code is read from the position of the individual person. A 0 does not mean that a position is absent or that contact with it is forbidden. A 1 does not mean unlimited access. The code measures standing, not presence. A collective reads some bodies differently from a person. One resident cannot move the preservational account
+
+of a river; an organised environmental movement can. The cube records the individual reading. The collective reading is a second register, scored by the same rule. Body 1 is the bridge. The governmental triad describes the system as a whole, not a function inside it, so it is not a corner. It carries the loop from body 9 back to
+
+body 2, and it has its own reading, set out below under the top row. Way one is the reference. Every row was scored by meaning, against the definition above. Legal . Your advocate argues with you and for you, and the cross-examination of the record runs back and forth with you. The judge is the one position that does
+
+not answer back. Enforcement . The police are the public face of the triad: you can call them, and they can be called on you. Intelligence, read as a knowledge record, holds you as much as your actions put out, and the copy is one you can reach. Surveillance mirrors the camera: the record is equal to the act. All
+
+three stand level with you. Development logistics . The builders answer to the companies that commission them, not to you. Civic welfare hears you through consultation and objection, and the record of what you own is yours to check. Energy resources . Read from the individual, you cannot supply the grid as it supplies you, and the account of its
+
+environmental cost is not yours to review. Only sanitation meets you on equal terms, through the consumer relationship and the hygiene of your own home and surroundings. Medical . Doctors meet you on equal terms, and so does the scientific side: you take part in studies, consent or refuse, and speak with the researchers. The nutritional account of what farmers
+
+and producers supply is not one you stand level with. Manufacturing . You can make as well as buy, and as a consumer you steer supply and demand. The commercial decision is not yours to reach, and the financial account kept of you is not one you review on equal terms. Content creation . Anyone can post, dispute and share.
+
+Posting is influence, but not equal influence over what is distributed, so all three positions score 0. That is the reason this is the transmissible corner: material moves through it without anyone standing level with the system that moves it. Cultural . The religious account is the one you enter on equal terms: the review of conduct against principle includes
+
+you and answers you. Everyday social life and educational approval act on you before you can act on them. The cube has 8 corners, 12 edges and exactly 6 routes that visit every corner once while changing one bit per step. Each route has a pulse: one position changes four times and the other two change twice each. There are
+
+three pulse families, one for each position. Every way keeps two anchors: legal at one, zero, one and enforcement at one, one, one. Four of the six routes contain that edge. Three of them form the three ways, one from each pulse family. The fourth is a second route in the authoritative-body family. Route one, zero, one → one, one,
+
+one → zero, one, one → zero, one, zero → one, one, zero → one, zero, zero → zero, zero, zero → zero, zero, one → one, zero, one. Pulse: E . Route one, zero, one → one, one, one → one, one, zero → one, zero, zero → zero, zero, zero → zero, one, zero → zero, one, one
+
+→ zero, zero, one → one, zero, one. Pulse: B . Rows 2 to 4 are scored. Judicial and intelligence fit. Civic welfare fits at one, one, zero when it is read as population health: the welfare decision and the builders meet you on equal terms, while the property record does not. Rows 5 to 9 are next, starting with
+
+medical at zero, zero, zero. Route one, zero, one → one, one, one → one, one, zero → zero, one, zero → zero, one, one → zero, zero, one → zero, zero, zero → one, zero, zero → one, zero, one. Pulse: A . The route closes from one, zero, zero back to one, zero, one by changing the account
+
+bit, so the return passes through diplomatic, the account position of body 1. Rows 4 to 9 are next. These routes are properties of the cube. Only a judgement of fit, row by row, turns a route into a finding about society. The names belong to the codes, not the bodies. In ways two and three, development logistics sits at
+
+one, one, zero, so it takes Reproducible. Each name describes a quality of authority at its corner, and Environmental is the one that also names a domain; it became free for corner zero, one, zero when the account position of body 5 was renamed Preservational. The names were chosen for way one, and each other way tests whether a name
+
+still describes the body that inherits it. Body 1 is read on the same three positions but asks a different question: does each position hold greater or lesser influence than the individual? The reciprocity reading asks whether a relationship is equal. The top row reads the system itself, where equality is never the starting point. The model runs on one
+
+cube with two readings: equal or unequal for bodies 2 to 9, greater or lesser for body 1. The governmental row is not fixed to one corner. It can sit at any of the eight, and where it sits names the kind of regime in place. The top row is the newest layer of the model. Four tasks complete it:
+
+naming the eight regime types, marking equal and unknown influence, deciding whether the collective names carry over, and defining the path a regime travels from one corner to another. The one-bit rule was spoken aloud while legal and enforcement were being scored, so those two rows count as anchors. With them fixed, 4 of the remaining 720 assignments close: 1
+
+in 180. That is the measure of how unlikely it is for the remaining six rows to land on a route by chance. Record the predictions first. Write the expected code for every body on every way before anyone else scores them. Use blind raters. Give them the bit and the position definitions, but not the codes, the cube or
+
+the one-bit rule. Use human raters. Separate AI instances share training and agree with each other too readily. Report agreement row by row, alongside every point of divergence. Run a case built to strain the model. A bank collapse comes first. The structure came first and the cube came last. Seed domains. About 15 to 20 domains named from memory:
+
+religion, family, education, government, media, arts and entertainment, business, legal, financial, cultural, medical, technological, surveillance, political, transport, food production, manufacturing and agriculture. Expansion. A thirty-row table of societal domains, with “institutional” set aside as an umbrella term. Comparison. Parsons’ AGIL model, PESTLE, the security sectors of Buzan, Wæver and de Wilde, and the UNDP dimensions of human security. All four
+
+classify domains, and none separates capabilities into triples. Parsons derives four functions from two yes-or-no questions; this model derives eight corners from three, and places a separation of capabilities inside every domain. Triads. Surveillance, intelligence and enforcement first, then legal, judicial and auditorial, and the rest by the same separation test, giving 27 components in nine triads. Positions. Enact and
+
+submit, approve or deny, record and review, fixed by meaning. Cube. Three-bit codes scored row by row against the finished structure. The original framework and examples are retained. Fourteen new pages develop the cube and its overview. Loop 1 preserves all eight assignments checked in the supplied discussion. Other loops are alternative assignments, not automatic replacements for that reference. EXPANSION
+
+/ OVERVIEW Four panels, two kinds of reading Three role-led cycle views sit beside a collective overview of the same eight codes. 01 / E pulse Loop 1 Embodied-agent pulse: the acting bit changes four times. The baseline body assignment is retained. 02 / B pulse Loop 2 Authoritative-body pulse: a different assignment emphasises the approving bit in the traversal.
+
+03 / A pulse Loop 3 Authoritative-agent pulse: the reviewing bit supplies the alternating pulse. 04 / Collective overview Eight code names Names the eight whole-triad patterns and distinguishes reciprocity from governmental dominance. What the fourth panel contributes The overview gives one collective name to each code and reads the governmental triad through a different question about relative influence. It
+
+is an interpretive layer over the cube. A separate governmental traversal has not been fixed, so this edition does not invent a new meta-cycle or a permanent name for it. The second group of three cycles, Loops 4-6, completes the six distinct cycles of the labelled cube. It is set out on page 22. The fourth overview panel and the
+
+numbered Loop 4 are different objects: one is a way of interpreting the code set; the other is a particular route through it. READING RULE The terms are kept separate throughout: body = social triad; code = three-bit state; loop = an ordered traversal; collective name = a label attached to a code. This is the working interpretation of the
+
+requested fourth overview. It incorporates the supplied three-axis dominance proposal without treating an unfinished path or measurement rule as already settled. EXPANSION / CODING Three bits, read E-B-A Left to right: embodied agent, authoritative body, authoritative agent. Bi t Role Working reciprocity test E Embodied agent Can the person initiate or request the relevant action as well as be its
+
+recipient or subject? B Authoritative body What reciprocal standing, access, or participation does the person have in the approving relationship? A Authoritative agent Can the person see and review the relevant account of their participation or representation? The two-way idea For bodies 2-9, the supplied working reading gives 1 to a relationship treated as reciprocal or equal in kind, and
+
+0 to a relationship treated as one-way, distorted, or outside that reciprocity. Earlier language of "in focus" and "out of focus" is retained as shorthand for this reading. The operational tests differ by role. Requesting an action, accessing information, reviewing an account, and possessing equal influence are related but distinct capabilities. The reference codes preserve the proposed reading; they are
+
+not measurements proving that these capabilities coincide in every real institution. Code form Question Meaning of 1 R = How reciprocal is this relationship under the selected test? The specified reciprocal capability is treated as present. D = Which side has greater influence relative to a stated reference? The role has greater influence than that reference, under the convention used
+
+here. AVOIDING A CATEGORY ERROR Always name the reading. R = one, zero, one and D = one, zero, one share the same three symbols but assert different things. Neither can be inferred from the other without an additional rule. A zero does not mean the position disappears, the activity is forbidden, or no contact occurs. A one does not
+
+grant unlimited access or universal legal entitlement. These are proposed coding conventions for the framework. EXPANSION / BASELINE The retained body-to-code assignment Loop 1 preserves all eight assignments checked against the author's intuition in the supplied discussion. Bod y Collective name / R Whole triad 1-bits 2 Consequential 1 0 1 Legal Judicial Auditorial E + A 3 Deterministic 1
+
+1 1 Enforcement Intelligence Surveillance E + B + A 4 Propositional 0 1 1 Development logistics Civic welfare Property stewardship B + A 5 Environmental 0 1 0 Energy resources Sanitation Preservational B 6 Reproducible 1 1 0 Medical Scientific Nutritional provision E + B 7 Contractual 1 0 0 Manufacturing Commercial Financial E 8 Transmissible 0 0 0
+
+Content creation Media distribution News journalism none 9 Transformational 0 0 1 Cultural Educational Religious A The body numbers and their positions stay fixed. Codes can vary between loops, and code-based names move with them. All three positions belong to the same coded triad in a given view. Body 4 is zero, one, one in Loop 1 and one, one,
+
+zero in Loops 2 and 3: these are alternative whole-body readings. FULL BASELINE VERSUS TWO ANCHORS If all eight baseline assignments are held fixed, only Loop 1 matches them. If only body 2 = one, zero, one and body 3 = one, one, one are held fixed, Loops 1-4 remain possible. EXPANSION / GEOMETRY Loop 1: one bit changes at
+
+a time An eight-vertex Hamiltonian cycle on the three-dimensional Boolean cube. zero, zero, zero zero, zero, one zero, one, zero zero, one, one one, zero, zero one, zero, one one, one, zero one, one, one Eight states Three binary positions give 2 × 2 × 2 = 8 combinations. Twelve edges Each state has three one-bit neighbours; counting each edge
+
+once gives 8 × 3 / 2 = 12. One complete cycle Visit every state once and close with another one-bit step. one, zero, one one, one, one zero, one, one zero, one, zero one, one, zero one, zero, zero zero, zero, zero zero, zero, one Return from zero, zero, one to one, zero, one to close the loop. Edge
+
+colours identify the changing bit: E teal, B ochre, A blue. Grey dashed edges belong to the cube but are not used by this cycle. From body To body Code change Bit changed 2 / Legal 3 / Enforcement one, zero, one → one, one, one B 3 / Enforcement 4 / Development logistics one, one, one → zero, one,
+
+one E 4 / Development logistics 5 / Energy resources zero, one, one → zero, one, zero A 5 / Energy resources 6 / Medical zero, one, zero → one, one, zero E 6 / Medical 7 / Manufacturing one, one, zero → one, zero, zero B 7 / Manufacturing 8 / Content creation one, zero, zero → zero, zero,
+
+zero E 8 / Content creation 9 / Cultural zero, zero, zero → zero, zero, one A 9 / Cultural 2 / Legal, via the social return zero, zero, one → one, zero, one E The social route passes through body 1 between bodies 9 and 2. The cube compresses that return into a closing edge; it does not assign
+
+body 1 a ninth vertex. EXPANSION / FIRST GROUP Loops 1-3: three pulse families The pulse is the bit that changes four times, on alternating edges. It names a traversal, not a political ruler. Loop 1 / E pulse one, zero, one one, one, one zero, one, one zero, one, zero one, one, zero one, zero, zero zero, zero, zero
+
+zero, zero, one Loop 2 / B pulse one, zero, one one, one, one one, one, zero one, zero, zero zero, zero, zero zero, one, zero zero, one, one zero, zero, one Loop 3 / A pulse one, zero, one one, one, one one, one, zero zero, one, zero zero, one, one zero, zero, one zero, zero, zero one, zero,
+
+zero Bod y Fixed triad label Loop 1 Loop 2 Loop 3 2 Legal 1 0 1 1 0 1 1 0 1 3 Enforcement 1 1 1 1 1 1 1 1 1 4 Development logistics 0 1 1 1 1 0 1 1 0 5 Energy resources 0 1 0 1 0 0 0 1 0 6 Medical
+
+1 1 0 0 0 0 0 1 1 7 Manufacturing 1 0 0 0 1 0 0 0 1 8 Content creation 0 0 0 0 1 1 0 0 0 9 Cultural 0 0 1 0 0 1 1 0 0 Loop 1 is the reference assignment. Loops 2 and 3 preserve the first two anchors, but change
+
+later body-to-code relationships. Their semantic fit is a separate question from their mathematical validity. With the E/B/A meanings held fixed, naming a loop after its pulse does not itself create a new observer perspective or prove that the associated role "leads" society. Those are interpretations to test, not properties of the graph. EXPANSION / SECOND GROUP Loops 4-6: the remaining
+
+three Together the two groups exhaust the six distinct undirected cycles of the labelled cube. Loop 4 / B pulse one, zero, one one, one, one zero, one, one zero, zero, one zero, zero, zero zero, one, zero one, one, zero one, zero, zero Loop 5 / E pulse one, zero, one one, zero, zero zero, zero, zero zero, one,
+
+zero one, one, zero one, one, one zero, one, one zero, zero, one Loop 6 / A pulse one, zero, one one, zero, zero one, one, zero one, one, one zero, one, one zero, one, zero zero, zero, zero zero, zero, one Bod y Fixed triad label Loop 4 Loop 5 Loop 6 2 Legal 1 0 1 1 0
+
+1 1 0 1 3 Enforcement 1 1 1 1 0 0 1 0 0 4 Development logistics 0 1 1 0 0 0 1 1 0 5 Energy resources 0 0 1 0 1 0 1 1 1 6 Medical 0 0 0 1 1 0 0 1 1 7 Manufacturing 0 1 0 1 1 1 0 1
+
+0 8 Content creation 1 1 0 0 1 1 0 0 0 9 Cultural 1 0 0 0 0 1 0 0 1 Loop 4 preserves one, zero, one → one, one, one. Loops 5 and 6 omit that edge entirely. From one, zero, one they reach one, zero, zero in the listed direction, or zero, zero, one in
+
+the reverse direction. Neither can put body 3 at one, one, one while body 2 remains at one, zero, one. STRUCTURAL COMPLETION Loops 5 and 6 are valid mathematical cycles and are included to complete the structure. They are not adopted as replacements for the baseline. Group A / Group B is a presentation choice; the cube does not require
+
+this particular grouping. EXPANSION / ATLAS All six cycles on the same cube Fixed E-B-A axes throughout. Coloured edges belong to the loop; dashed edges do not. zero, zero, zero zero, zero, one zero, one, zero zero, one, one one, zero, zero one, zero, one one, one, zero one, one, one L1 / E pulse BEAEBEAE zero, zero, zero zero,
+
+zero, one zero, one, zero zero, one, one one, zero, zero one, zero, one one, one, zero one, one, one L2 / B pulse BABEBABE zero, zero, zero zero, zero, one zero, one, zero zero, one, one one, zero, zero one, zero, one one, one, zero one, one, one L3 / A pulse BAEABAEA zero, zero, zero zero, zero, one
+
+zero, one, zero zero, one, one one, zero, zero one, zero, one one, one, zero one, one, one L4 / B pulse BEBABEBA zero, zero, zero zero, zero, one zero, one, zero zero, one, one one, zero, zero one, zero, one one, one, zero one, one, one L5 / E pulse AEBEAEBE zero, zero, zero zero, zero, one zero, one,
+
+zero zero, one, one one, zero, zero one, zero, one one, one, zero one, one, one L6 / A pulse ABAEABAE The strings below the cubes list the eight changed bits, including the closing edge. Every loop has flip counts 4, 2, 2. There are two cycles in each pulse family. Count convention: six cycles with vertex labels fixed, identifying
+
+reversal and starting-point changes. With the start fixed at one, zero, one and direction retained, there are twelve traversals. Rotating the axes is a different equivalence convention. EXPANSION / TRANSITIONS What changes at every step All eight edges are included. The final row closes the route back to one, zero, one. Bodies L1 L2 L3 L4 L5 L6 2 →
+
+3 B B B B A A 3 → 4 E A A E E B 4 → 5 A B E B B A 5 → 6 E E A A E E 6 → 7 B B B B A A 7 → 8 E A A E E B 8 → 9 A B E B B
+
+A 9 → 2 E E A A E E Loo p E flips B flips A flips Closing edge Matches baseline 1 4 2 2 zero, zero, one → one, zero, one 8 / 8 2 2 4 2 zero, zero, one → one, zero, one 3 / 8 3 2 2 4 one, zero, zero → one, zero,
+
+one 4 / 8 4 2 4 2 one, zero, zero → one, zero, one 3 / 8 5 4 2 2 zero, zero, one → one, zero, one 4 / 8 6 2 2 4 zero, zero, one → one, zero, one 3 / 8 Three different comparisons Pulse-family partners: L1/L5 share E; L2/L4 share B; L3/L6 share A.
+
+E-A axis-swap pairs: L1/L3, L2/L4, and L5/L6. Presentation groups: L1-L3 and L4-L6. These are different ways of relating the same six cycles. The E-A swap reverses the first and third bit positions while leaving one, zero, one and one, one, one fixed. It preserves graph structure but changes the roles associated with those coordinates. Consequently geometric symmetry is not evidence
+
+that acting and accounting are socially interchangeable. EXPANSION / COLLECTIVE NAMES Eight names for whole-triad patterns The supplied vocabulary is retained. The reasons are interpretive associations with the baseline bodies. Code Collective name Baseline body Naming rationale 1 0 1 Consequential 2 / Legal Claims, rulings, and an audit connect action to consequences and their account. 1 1 1 Deterministic
+
+3 / Enforcement Intervention, assessment, and observation give the label a sense of structured determination. 0 1 1 Propositional 4 / Development logistics Planning, community consideration, and stewardship organise proposed changes and their implications. 0 1 0 Environmental 5 / Energy resources Resources, containment, and preservation connect activity to its surrounding conditions. 1 1 0 Reproducible 6 / Medical Care,
+
+scientific assessment, and nourishment foreground dependable practice and examinable results. 1 0 0 Contractual 7 / Manufacturing Production, commercial commitment, and finance organise exchanges and continuing obligations. 0 0 0 Transmissible 8 / Content creation Creation, distribution, and journalism concern material carried into public circulation. 0 0 1 Transformational 9 / Cultural Cultural life, learning, and religious reflection can alter
+
+understanding and subsequent conduct. How much the names claim Consequential and Deterministic were explicitly selected in the supplied exchange. The complete eight-name set and the two position renames are carried forward from the supplied expansion material as the working vocabulary of this edition. A name is not a theorem about its bits. In particular, one, one, one does not prove
+
+that outcomes are fixed; zero, zero, zero does not prove unconstrained transmission; and one, one, zero does not establish reproducibility. The names help organise interpretation while the code definition must do the analytical work. Reproducible remains the most visibly strained cross-loop label: it fits the intended medical/scientific association more readily than the development and property triad, which occupies one, one,
+
+zero in Loops 2 and 3. The companion sets out this limitation without silently changing the chosen name. EXPANSION / GOVERNMENTAL OVERVIEW The top row asks a different question A dominance reading for Governmental / Constitutional / Diplomatic, kept separate from the reciprocity coding. The later proposal preserves three axes but asks whether each role has greater or lesser influence
+
+relative to a specified reference. To make the table readable, this edition uses the individual participant as a provisional reference: 1 = the role has more influence; 0 = the role has less. This convention is not a completed measurement scheme. D code Shared label Governmental Constitutional Diplomatic 1 0 1 Consequential Greater Lesser Greater 1 1 1 Deterministic Greater
+
+Greater Greater 0 1 1 Propositional Lesser Greater Greater 0 1 0 Environmental Lesser Greater Lesser 1 1 0 Reproducible Greater Greater Lesser 1 0 0 Contractual Greater Lesser Lesser 0 0 0 Transmissible Lesser Lesser Lesser 0 0 1 Transformational Lesser Lesser Greater What needs to be specified in use Influence must be relative to someone, over a stated
+
+decision, at a stated time, and under a stated comparison rule. Nomination and appointment, adherence and amendment, and representation and opposition provide questions to examine. None alone determines a bit or a regime's democratic status. Equal influence and unknown influence fall outside a strict greater-than / less-than split. They must be marked separately or the coding rule must be extended.
+
+Lesser influence also does not automatically mean consent, public control, or that the role reliably "answers to you". TWO USES OF THE TOP ROW Body 1 can be represented at any of the eight dominance codes. That independent code is not an extra corner inserted into the eight-state reciprocity cycle. The social return and the governmental dominance state are related
+
+interpretations with no specified transition rule yet. EXPANSION / MAPPINGS Where the collective names land Names follow codes. Body numbers continue to refer to the same social triads. Loops 1, 2, 3 Body Loop 1 Loop 2 Loop 3 2 1 0 1 Consequential 1 0 1 Consequential 1 0 1 Consequential 3 1 1 1 Deterministic 1 1 1
+
+Deterministic 1 1 1 Deterministic 4 0 1 1 Propositional 1 1 0 Reproducible 1 1 0 Reproducible 5 0 1 0 Environmental 1 0 0 Contractual 0 1 0 Environmental 6 1 1 0 Reproducible 0 0 0 Transmissible 0 1 1 Propositional 7 1 0 0 Contractual 0 1 0 Environmental 0 0 1 Transformational 8 0 0
+
+0 Transmissible 0 1 1 Propositional 0 0 0 Transmissible 9 0 0 1 Transformational 0 0 1 Transformational 1 0 0 Contractual Loops 4, 5, 6 Body Loop 4 Loop 5 Loop 6 2 1 0 1 Consequential 1 0 1 Consequential 1 0 1 Consequential 3 1 1 1 Deterministic 1 0 0 Contractual 1 0 0 Contractual
+
+4 0 1 1 Propositional 0 0 0 Transmissible 1 1 0 Reproducible 5 0 0 1 Transformational 0 1 0 Environmental 1 1 1 Deterministic 6 0 0 0 Transmissible 1 1 0 Reproducible 0 1 1 Propositional 7 0 1 0 Environmental 1 1 1 Deterministic 0 1 0 Environmental 8 1 1 0 Reproducible 0 1 1
+
+Propositional 0 0 0 Transmissible 9 1 0 0 Contractual 0 0 1 Transformational 0 0 1 Transformational Body 6 is Reproducible in Loop 1 but Propositional in Loop 3. Body 4 is Propositional in Loops 1 and 4, but Reproducible in Loops 2 and 3. Use the named loop consistently when making either statement. EXPANSION / APPLICATION The water
+
+case under the cube The narrative and the coding answer different questions about the same body sequence. Bo dy Baseline R / label What the water narrative supplies 2 1 0 1 Consequential Claims about obligations, a decision, and a reviewable audit. 3 1 1 1 Deterministic A requested inspection, operational assessment, and observations. 4 0 1 1 Propositional Repair
+
+proposals, community consideration, and asset responsibilities. 5 0 1 0 Environmental Power and materials, containment decisions, and preservation records. 6 1 1 0 Reproducible Care proposals, evidence assessment, and conditions of nourishment. 7 1 0 0 Contractual Equipment production, commercial commitments, and financial records. 8 0 0 0 Transmissible Public updates, distribution and audience response, and reporting. 9 0 0
+
+1 Transformational Community discussion, explained guidance, and religious reflection. What this application demonstrates The example shows how each triad can contribute to a coherent response. It does not measure the residents' actual reciprocity with every position. The R codes remain the proposed baseline assignment unless evidence about a defined participant and capability supports a separate empirical coding. A resident can
+
+post, dispute, and share material even though body 8 carries baseline R = zero, zero, zero. That potential tension should be examined under the chosen reciprocity test. It cannot be resolved simply by declaring that all public participation is one-way. A USEFUL TEST The observed response may challenge the code assignment. If an application repeatedly requires exceptions to keep its
+
+bits, revise the interpretation or the assignment explicitly rather than quietly changing what 1 means. EXPANSION / AUDIT What the independent check establishes The mathematical paths were recomputed from the three-bit adjacency rule. Check Finding Consequence Vertices and edges 8 vertices; 12 one-bit edges. The geometry is Q3. Distinct cycles 6 undirected cycles with labels fixed. The six supplied loops
+
+cover the complete set under this convention. Cycle validity All 6 visit 8 states once and close by one bit. All are Hamiltonian Gray cycles. Pulse pattern Each has counts 4,2,2; the four-flip role alternates. Two cycles per pulse family. Two-anchor test L1-L4 use one, zero, one → one, one, one; L5-L6 do not. Only four preserve the first two
+
+assigned bodies. Full-baseline test Only L1 matches all eight assignments. Anchor-compatible is weaker than baseline-compatible. Mixed-loop readout zero, one, one → one, zero, zero changes three bits. Selected rows from different loops need a fresh adjacency check. Name collision Preservational differs from Environmental. Whole-body label and position name are distinct. Semantic fit Not established by cycle verification. Reciprocity, influence, and
+
+naming require separate assessment. Corrections that matter The original cube draft both reported all Loop 1 rows as checked and later said rows 4-9 were untested. This edition follows the explicit confirmation of the whole first loop. Other traversals remain alternatives whose social interpretation is not established by their geometry. The audit does not adopt every claim from the supplied
+
+code comments. Four compatible first edges do not mean four fully confirmed body assignments. An alternating pulse does not imply political dominance. A dominance code does not prove determinism, democracy, or unrestricted action. EXPANSION / REFERENCE A stable reference for further work Current decisions, open questions, and source basis. Item Current treatment Social structure Nine bodies in the original order;
+
+three functional positions in each. Current position names Preservational in body 5; Cultural in body 9; Content creation / Media distribution / News journalism in body 8. Primary coding Loop 1: one, zero, one, one, one, one, zero, one, one, zero, one, zero, one, one, zero, one, zero, zero, zero, zero, zero, zero, zero, one. Alternative traversals L2-L4 retain two
+
+anchors; L5-L6 complete the cycle set while relaxing that anchor condition. Collective names Consequential, Deterministic, Propositional, Environmental, Reproducible, Contractual, Transmissible, Transformational, in Loop 1 order. Fourth overview Collective labels and the separate governmental dominance reading; no new named meta-path is fixed. Still to define Reference and scale for influence; handling equality and uncertainty; cross-loop semantic fit; any actual meta-transition rule.
+
+Source basis Core source: the supplied 16-page The Nine Bodies of Authority PDF. Cube source: the supplied four-page Nine Bodies three cube loops draft. The pasted conversation, source-code drafts, and later data dictionary supplied the subsequent naming and coding proposals. Duplicate PDF uploads were byte-identical and treated as copies of one source each. The original examples and core chapter order
+
+are retained. The fourteen-page expansion distinguishes source choices, independently verified graph properties, and proposed interpretations. The companion provides the rationale, complete audit convention, and remaining limitations in detail. The framework becomes stronger when its social claims remain open to the same recording, review, and revision that it asks of the institutions it describes. Every body is a node and every
+
+relationship is a link. The body in the centre is your point of reference: select any node to preview it, travel to its neighbours, or recentre the whole map on it. Your focus carries across Network, Visual, Written, Scripted and Recorded.

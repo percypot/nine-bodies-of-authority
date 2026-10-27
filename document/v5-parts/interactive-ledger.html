@@ -1,0 +1,450 @@
+<!-- Interactive public-ledger example. One fragment for embedding. No document chrome. -->
+<section class="fn-ledger" aria-label="Categorical imposition">
+<style>
+.fn-ledger{--fn-serif:var(--serif,"Newsreader","Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif);--fn-sans:var(--sans,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif);--fn-mono:var(--mono,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace);color:var(--ink,#1b1a20);font:16.5px/1.62 var(--fn-serif);min-width:0}
+.fn-ledger *,.fn-ledger *::before,.fn-ledger *::after{box-sizing:border-box}
+.fn-ledger button{font:inherit;color:inherit;cursor:pointer}
+.fn-ledger :focus-visible{outline:2px solid var(--focal,#b5452b);outline-offset:3px}
+.fn-ledger [hidden]{display:none !important}
+.fn-ledger .fn-kicker{display:block;font:700 10.5px/1.2 var(--fn-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3,#6c6870)}
+.fn-ledger .fn-controls{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr) 112px;gap:10px;align-items:stretch;margin:0 0 14px}
+.fn-ledger .fn-ctl,.fn-ledger .fn-status,.fn-ledger .fn-count{border:1px solid var(--line,#d7d2c9);border-radius:14px;background:var(--surface,#fffefc);padding:10px;min-width:0}
+.fn-ledger .fn-status{margin:0}
+.fn-ledger .fn-archive{display:block;margin-top:8px;font:650 18px/1.25 var(--fn-serif);color:var(--ink,#1b1a20)}
+.fn-ledger .fn-count{display:grid;place-items:center;text-align:center;gap:4px}
+.fn-ledger .fn-count strong{font:650 30px/1 var(--fn-serif);font-variant-numeric:tabular-nums}
+.fn-ledger .fn-count span{font:700 10.5px/1.2 var(--fn-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3,#6c6870)}
+.fn-ledger .fn-pills{display:flex;flex-wrap:nowrap;gap:6px;margin-top:8px;overflow-x:auto}
+.fn-ledger .fn-pills button{flex:0 0 auto;border:1px solid var(--control,#6c6870);border-radius:999px;background:transparent;padding:8px 14px;min-height:24px;font:700 12.5px/1 var(--fn-sans);color:var(--ink,#1b1a20);white-space:nowrap}
+.fn-ledger .fn-pills button:hover{border-color:var(--ink,#1b1a20)}
+.fn-ledger .fn-pills button[aria-pressed="true"]{background:var(--ink,#1b1a20);border-color:var(--ink,#1b1a20);color:var(--ground,#f3efe4)}
+.fn-ledger .fn-frame{position:relative;border:1px solid var(--line,#d7d2c9);border-radius:16px;background:var(--surface,#fffefc);min-width:0}
+.fn-ledger .fn-scroll{overflow:auto;max-width:100%}
+.fn-ledger .fn-stage{position:relative;height:40rem;min-width:56rem}
+.fn-ledger .fn-relations{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none}
+.fn-ledger .fn-solid{fill:none;stroke-width:1.5px;stroke-linecap:round}
+.fn-ledger .fn-dash{fill:none;stroke-width:1.6px;stroke-linecap:round;stroke-dasharray:6 5;animation:fn-ledger-travel 6s linear infinite}
+.fn-ledger .fn-dash[data-flow="backward"]{animation-direction:reverse}
+.fn-ledger .fn-names,.fn-ledger .fn-events,.fn-ledger .fn-branches{position:absolute;inset:0}
+.fn-ledger .fn-names{pointer-events:none}
+.fn-ledger .fn-name,.fn-ledger .fn-kind{position:absolute;width:120px;translate:0 -50%;font:700 10.5px/1.3 var(--fn-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3,#6c6870);text-align:center}
+.fn-ledger .fn-name{left:8px}
+.fn-ledger .fn-kind{right:8px}
+.fn-ledger .fn-name-centre,.fn-ledger .fn-kind-centre{color:var(--ink,#1b1a20)}
+.fn-ledger .fn-name-centre.is-mark{color:var(--focal,#b5452b)}
+.fn-ledger .fn-event,.fn-ledger .fn-branch{position:absolute;width:30px;height:30px;padding:0;translate:-50% -50%;border-radius:50%;background:var(--ground,#f3efe4)}
+.fn-ledger .fn-event{z-index:3;border:1.6px solid var(--ink,#1b1a20);background:var(--hue,var(--ink,#1b1a20))}
+.fn-ledger .fn-branch{z-index:4;border:1.6px dashed var(--ink,#1b1a20);background:var(--ground,#f3efe4)}
+.fn-ledger .fn-branch::after{content:"";position:absolute;left:50%;top:50%;width:9px;height:9px;translate:-50% -50%;border:1px solid var(--ink,#1b1a20);border-radius:50%;background:var(--hue,var(--ink,#1b1a20))}
+.fn-ledger .fn-branch.is-open::after{content:none}
+.fn-ledger .fn-event.is-focal,.fn-ledger .fn-branch.is-focal{box-shadow:0 0 0 2.5px var(--focal,#b5452b)}
+.fn-ledger .fn-event:hover,.fn-ledger .fn-event.is-on,.fn-ledger .fn-branch:hover,.fn-ledger .fn-branch.is-open{z-index:6}
+.fn-ledger .fn-card,.fn-ledger .fn-tip{position:absolute;left:50%;top:calc(100% + 8px);translate:-50% 0;width:11.5rem;padding:8px;border:1px solid var(--line,#d7d2c9);border-radius:14px;background:var(--surface,#fffefc);text-align:left;text-transform:none;letter-spacing:0;opacity:0;pointer-events:none;transition:opacity 200ms ease-out}
+.fn-ledger .fn-event:hover .fn-card,.fn-ledger .fn-event:focus-visible .fn-card,.fn-ledger .fn-event.is-on .fn-card,.fn-ledger .fn-branch:hover .fn-tip,.fn-ledger .fn-branch:focus-visible .fn-tip{opacity:1}
+.fn-ledger .fn-event.is-left .fn-card,.fn-ledger .fn-branch.is-left .fn-tip{left:auto;right:0;translate:0 0}
+.fn-ledger .fn-head{display:flex;align-items:flex-start;gap:6px;font:650 15px/1.25 var(--fn-serif);color:var(--ink,#1b1a20)}
+.fn-ledger .fn-dot{flex:0 0 auto;width:9px;height:9px;margin-top:4px;border:1px solid var(--ink,#1b1a20);border-radius:50%;background:var(--hue,var(--ink,#1b1a20))}
+.fn-ledger .fn-thought{display:block;margin-top:6px;font:400 13px/1.4 var(--fn-serif);color:var(--ink-2,#4b4854)}
+.fn-ledger .fn-state,.fn-ledger .fn-meta{display:block;margin-top:8px;font:700 10.5px/1.3 var(--fn-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3,#6c6870)}
+.fn-ledger .fn-meta{padding-top:8px;border-top:1px solid var(--line,#d7d2c9)}
+.fn-ledger .fn-open{display:none}
+.fn-ledger .fn-branch.is-open{width:16rem;height:auto;min-height:24px;padding:14px;translate:0 -50%;border-radius:14px;border-style:dashed;text-align:left;text-transform:none;letter-spacing:0;z-index:7}
+.fn-ledger .fn-branch.is-open.is-left{translate:-100% -50%}
+.fn-ledger .fn-branch.is-open .fn-tip{display:none}
+.fn-ledger .fn-branch.is-open .fn-open{display:block}
+.fn-ledger .fn-insp{margin-top:14px;padding:16px;border:1px solid var(--line,#d7d2c9);border-radius:16px;background:var(--ground,#f3efe4);box-shadow:var(--lift,0 12px 38px rgba(27,26,32,.08))}
+.fn-ledger .fn-insp-top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px}
+.fn-ledger .fn-close{flex:0 0 auto;border:1px solid var(--control,#6c6870);border-radius:999px;background:var(--surface,#fffefc);padding:8px 14px;min-height:24px;font:700 12.5px/1 var(--fn-sans);color:var(--ink,#1b1a20)}
+.fn-ledger .fn-close:hover{border-color:var(--ink,#1b1a20)}
+.fn-ledger .fn-title{margin:8px 0;font:650 20px/1.25 var(--fn-serif);color:var(--ink,#1b1a20)}
+.fn-ledger .fn-body{margin:0 0 14px;font:15px/1.5 var(--fn-serif);color:var(--ink-2,#4b4854)}
+.fn-ledger .fn-insp dl{margin:0;padding-top:14px;border-top:1px solid var(--line,#d7d2c9)}
+.fn-ledger .fn-insp dt{margin:10px 0 0;font:700 10.5px/1.3 var(--fn-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3,#6c6870)}
+.fn-ledger .fn-insp dt:first-child{margin-top:0}
+.fn-ledger .fn-insp dd{margin:4px 0 0;font:15px/1.35 var(--fn-serif);color:var(--ink,#1b1a20)}
+.fn-ledger .fn-terms{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
+.fn-ledger .fn-term{border:1px solid var(--control,#6c6870);border-radius:999px;padding:6px 10px;font:700 10.5px/1.3 var(--fn-mono);letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2,#4b4854)}
+.fn-ledger .fn-quiet{margin:14px 0 0;font:14px/1.5 var(--fn-serif);color:var(--ink-2,#4b4854)}
+.fn-ledger .fn-note{margin:14px 0 0;font:14px/1.5 var(--fn-serif);color:var(--ink-2,#4b4854)}
+.fn-ledger .fn-legend{display:flex;flex-wrap:wrap;gap:6px 16px;margin:14px 0 0;font:600 10.5px/1.4 var(--fn-mono);letter-spacing:.05em;text-transform:uppercase;color:var(--ink-3,#6c6870)}
+.fn-ledger .fn-legend i{display:inline-block;width:22px;height:0;margin-right:6px;border-top:1.5px solid var(--ink,#1b1a20);vertical-align:middle}
+.fn-ledger .fn-legend i.fn-key-dash{border-top-style:dashed;border-top-width:1.6px}
+@media (max-width:980px){.fn-ledger .fn-controls{grid-template-columns:1fr 1fr}.fn-ledger .fn-count{grid-column:1 / -1}}
+@media (max-width:640px){.fn-ledger .fn-controls{grid-template-columns:1fr}.fn-ledger .fn-count{grid-column:auto}}
+@media (pointer:coarse){.fn-ledger .fn-pills button,.fn-ledger .fn-close,.fn-ledger .fn-event,.fn-ledger .fn-branch{min-width:44px;min-height:44px}}
+@media (prefers-reduced-motion:reduce){.fn-ledger .fn-dash{animation:none}.fn-ledger .fn-card,.fn-ledger .fn-tip{transition:none}}
+@keyframes fn-ledger-travel{to{stroke-dashoffset:-110px}}
+</style>
+<div class="fn-controls">
+  <div class="fn-ctl">
+    <span class="fn-kicker">Role</span>
+    <div class="fn-pills" role="group" aria-label="Roles">
+      <button type="button" data-lane-choice="1" aria-pressed="false">Embodied agent</button>
+      <button type="button" data-lane-choice="0" aria-pressed="true">Authoritative body</button>
+      <button type="button" data-lane-choice="2" aria-pressed="false">Authoritative agent</button>
+    </div>
+  </div>
+  <p class="fn-status"><span class="fn-kicker">Authoritative body · consolidated</span><span class="fn-archive" data-archive>The Public Librarian</span></p>
+  <div class="fn-count"><strong>8</strong><span>positions</span></div>
+</div>
+<div class="fn-frame">
+  <div class="fn-scroll">
+    <div class="fn-stage">
+      <svg class="fn-relations" aria-hidden="true"></svg>
+      <div class="fn-names">
+        <span class="fn-name" data-place="top">Embodied agent</span>
+        <span class="fn-kind" data-place="top">Contingent</span>
+        <span class="fn-name fn-name-centre is-mark" data-place="mid">Authoritative body</span>
+        <span class="fn-kind fn-kind-centre" data-place="mid">Categorical</span>
+        <span class="fn-name" data-place="bot">Authoritative agent</span>
+        <span class="fn-kind" data-place="bot">Contingent</span>
+      </div>
+      <div class="fn-events"></div>
+      <div class="fn-branches"></div>
+    </div>
+  </div>
+</div>
+<aside class="fn-insp" data-inspector hidden>
+  <div class="fn-insp-top"><p class="fn-kicker" data-insp-kicker></p><button type="button" class="fn-close">Close</button></div>
+  <p class="fn-title" data-insp-title></p>
+  <p class="fn-body" data-insp-body></p>
+  <dl data-insp-facts></dl>
+  <div class="fn-terms" data-insp-terms></div>
+  <p class="fn-quiet">Categorical inspection does not change perspective.</p>
+</aside>
+<p class="fn-legend"><span><i></i>Categorical imposition</span><span><i class="fn-key-dash"></i>Contingent</span></p>
+<p class="fn-note">Solid centre inspects a published stance. Dashed outside previews a contingent relationship. Colour names the position, and the name is the label. Authoritative body is pressed.</p>
+<script>
+(function () {
+  var script = document.currentScript;
+  var root = script && script.closest(".fn-ledger");
+  if (!root) return;
+  var doc = root.ownerDocument;
+  var SVG = "http://www.w3.org/2000/svg";
+  var NAMES = ["Supposition", "Exposition", "Reposition", "Juxtaposition", "Proposition", "Composition", "Decomposition", "Deposition"];
+  var CATEGORICAL = ["Ground", "Uphold", "Abstract", "Analogy", "Justify", "Simplify", "Redefine", "Commit"];
+  var CONTINGENT = ["Contest", "Undercut", "Elaborate", "Contrast", "Dispute", "Complicate", "Deconstruct", "Withdraw"];
+  var HUE = ["var(--n1, #ef5a52)", "var(--n2, #f08a3c)", "var(--n3, #d9b84f)", "var(--n4, #78ae62)", "var(--n5, #65c5d4)", "var(--n6, #6f78d5)", "var(--n7, #a56fd2)", "var(--n8, #d44d91)"];
+  var ARCHIVES = [
+    {name: "The Public Librarian", terms: ["patient access", "shelf memory", "quiet invitation"], values: ["Knowledge", "Education", "Collaboration"], releases: [
+      ["Access Has a Pace", "An open door still fails if the room moves faster than the visitor."],
+      ["The Missing Book Leaves an Address", "Absence becomes useful when the catalogue remembers where to look."],
+      ["A Catalogue Is a Promise", "An index matters because it commits the room to helping a stranger find what it names."],
+      ["Quiet Can Exclude", "Silence becomes a locked rule when only the already comfortable know how to enter it."],
+      ["The Return Date Measures Trust", "A borrowed book carries an agreement that knowledge can leave and still belong to everyone."],
+      ["Digital Access Still Has a Door", "A link can remain a staircase when the visitor was promised a ramp."],
+      ["A Question Often Arrives Disguised", "The title someone asks for may be the coat worn by a need they cannot yet name."],
+      ["The Popular Shelf Is Not the Public Need", "A queue can show demand while hiding the person who stopped asking."]
+    ]},
+    {name: "The Night Paramedic", terms: ["measured urgency", "borrowed fear", "clean handover"], values: ["Knowledge", "Collaboration"], releases: [
+      ["Triage Is Not Indifference", "The first open door is not the only room that matters."],
+      ["The Handover Carries the Patient", "Care survives the shift only when the next hands receive its reasons."],
+      ["Urgency Has a Half-Life", "A siren can keep sounding inside the body after the street has gone quiet."],
+      ["The Quiet Patient Can Be the Loudest Risk", "Silence is not an empty monitor; sometimes it asks for another look."],
+      ["Protocols Need a Human Hinge", "A strong door still needs a joint that can move when the room changes."],
+      ["A Team Borrows One Nervous System", "Under pressure, information must travel like one shared reflex."],
+      ["Recovery Begins Before Arrival", "The first calm instruction can prepare a landing place before the hospital is visible."],
+      ["The Scene Leaves With You", "Some rooms close behind the ambulance but continue travelling in the people who worked there."]
+    ]},
+    {name: "The Climate Modeler", terms: ["bounded uncertainty", "decision weather", "honest interval"], values: ["Knowledge", "Research", "Collaboration"], releases: [
+      ["Uncertainty Is Part of the Forecast", "The blurred edge of the storm is still information about where to shelter."],
+      ["A Range Can Carry Responsibility", "Not knowing the exact depth does not make the river safe to cross."],
+      ["The Model Is a Conditional Sentence", "Every result begins with an if that must remain attached to the number."],
+      ["Confidence Has Geography", "The forecast can be sharp in one valley and blurred at the coast without contradicting itself."],
+      ["The Median Can Hide the Tail", "The centre says little about the floodwater already touching the highest step."],
+      ["Action Cannot Wait for One Number", "A range can still point toward shelter before the final depth is known."],
+      ["Calibration Is a Memory", "A model learns honesty by keeping the address of every place its confidence missed."],
+      ["A Scenario Is Not a Prediction", "A possible road is drawn so choices can be tested, not so the future must travel it."]
+    ]}
+  ];
+  var state = {lane: 0, inspected: null, preview: null};
+  var svg = root.querySelector(".fn-relations");
+  var events = root.querySelector(".fn-events");
+  var branches = root.querySelector(".fn-branches");
+  var inspector = root.querySelector("[data-inspector]");
+  var centre = [];
+  var branch = [];
+  var spine = [];
+  var topSpoke = [];
+  var botSpoke = [];
+  var topLane = [];
+  var botLane = [];
+  var spineTail;
+  var topLead;
+  var botLead;
+  var topTail;
+  var botTail;
+
+  function q(sel) { return root.querySelector(sel); }
+  function previous(index) { return (index + 7) % 8; }
+  function others(lane) { return [0, 1, 2].filter(function (index) { return index !== lane; }); }
+  function line(className, flow) {
+    var el = doc.createElementNS(SVG, "line");
+    el.setAttribute("class", className);
+    if (flow) el.setAttribute("data-flow", flow);
+    svg.appendChild(el);
+    return el;
+  }
+  function setLine(el, x1, y1, x2, y2, hue) {
+    el.setAttribute("x1", x1);
+    el.setAttribute("y1", y1);
+    el.setAttribute("x2", x2);
+    el.setAttribute("y2", y2);
+    el.style.stroke = hue;
+  }
+  function card(kind) {
+    var wrap = doc.createElement("span");
+    wrap.className = kind;
+    wrap.setAttribute("aria-hidden", "true");
+    var head = doc.createElement("span");
+    head.className = "fn-head";
+    var dot = doc.createElement("i");
+    dot.className = "fn-dot";
+    var strong = doc.createElement("strong");
+    strong.dataset.heading = "";
+    head.append(dot, strong);
+    var thought = doc.createElement("span");
+    thought.className = "fn-thought";
+    thought.dataset.thought = "";
+    var stateLine = doc.createElement("span");
+    stateLine.className = "fn-state";
+    stateLine.dataset.state = "";
+    wrap.append(head, thought, stateLine);
+    return wrap;
+  }
+  function build() {
+    var i;
+    for (i = 0; i < 7; i++) spine.push(line("fn-solid"));
+    spineTail = line("fn-solid");
+    for (i = 0; i < 8; i++) topSpoke.push(line("fn-dash"));
+    for (i = 0; i < 8; i++) botSpoke.push(line("fn-dash"));
+    for (i = 0; i < 7; i++) topLane.push(line("fn-dash", "backward"));
+    for (i = 0; i < 7; i++) botLane.push(line("fn-dash", "forward"));
+    topLead = line("fn-dash", "backward");
+    botLead = line("fn-dash", "forward");
+    topTail = line("fn-dash", "backward");
+    botTail = line("fn-dash", "forward");
+    for (i = 0; i < 8; i++) {
+      var button = doc.createElement("button");
+      var mark = doc.createElement("span");
+      button.type = "button";
+      button.className = "fn-event";
+      button.dataset.index = String(i);
+      button.style.setProperty("--hue", HUE[i]);
+      button.appendChild(card("fn-card"));
+      mark.className = "fn-kicker";
+      mark.textContent = "Categorical";
+      button.querySelector(".fn-card").insertBefore(mark, button.querySelector(".fn-head"));
+      events.appendChild(button);
+      centre.push(button);
+    }
+    for (i = 0; i < 8; i++) {
+      ["top", "bot"].forEach(function (side) {
+        var node = doc.createElement("button");
+        var pos = side === "top" ? i : previous(i);
+        node.type = "button";
+        node.className = "fn-branch";
+        node.dataset.slot = String(i);
+        node.dataset.side = side;
+        node.dataset.pos = String(pos);
+        node.style.setProperty("--hue", HUE[pos]);
+        node.setAttribute("aria-expanded", "false");
+        node.appendChild(card("fn-tip"));
+        var open = card("fn-open");
+        var meta = doc.createElement("span");
+        meta.className = "fn-meta";
+        meta.dataset.meta = "";
+        open.appendChild(meta);
+        node.appendChild(open);
+        branches.appendChild(node);
+        branch.push(node);
+      });
+    }
+  }
+  function paintCopy() {
+    var archive = ARCHIVES[state.lane];
+    var pair = others(state.lane);
+    q("[data-archive]").textContent = archive.name;
+    centre.forEach(function (button, index) {
+      var title = archive.releases[index][0];
+      button.querySelector("[data-heading]").textContent = NAMES[index] + " · " + CATEGORICAL[index];
+      button.querySelector("[data-thought]").textContent = title;
+      button.querySelector("[data-state]").textContent = "Published on record";
+      button.setAttribute("aria-label", NAMES[index] + ". " + CATEGORICAL[index] + ". " + title + ". Categorical. Published on record. Inspect this published stance.");
+      button.setAttribute("aria-pressed", String(state.inspected === index));
+      button.classList.toggle("is-on", state.inspected === index);
+      button.classList.toggle("is-focal", state.inspected === index);
+    });
+    branch.forEach(function (button) {
+      var pos = Number(button.dataset.pos);
+      var side = button.dataset.side;
+      var target = side === "top" ? pair[0] : pair[1];
+      var laneName = side === "top" ? "Embodied agent" : "Authoritative agent";
+      var thought = ARCHIVES[target].releases[pos][0];
+      var open = state.preview === button;
+      button.querySelectorAll("[data-heading]").forEach(function (el) { el.textContent = NAMES[pos] + " · " + CONTINGENT[pos]; });
+      button.querySelectorAll("[data-thought]").forEach(function (el) { el.textContent = thought; });
+      button.querySelectorAll("[data-state]").forEach(function (el) { el.textContent = "Published in archive"; });
+      button.querySelector("[data-meta]").textContent = laneName + " · " + ARCHIVES[target].name + " · synthetic public example";
+      button.classList.toggle("is-open", open);
+      button.classList.toggle("is-focal", open);
+      button.setAttribute("aria-expanded", String(open));
+      button.setAttribute("aria-label", NAMES[pos] + ". " + CONTINGENT[pos] + ". " + thought + ". Published in archive. " + (open ? "Close " : "Open ") + laneName + " preview.");
+    });
+    q(".fn-name-centre").classList.toggle("is-mark", state.inspected === null && state.preview === null);
+  }
+  function layout() {
+    var stage = q(".fn-stage");
+    var w = stage.clientWidth;
+    var h = stage.clientHeight;
+    if (w < 200 || h < 200) return;
+    var labelW = 128;
+    var gutter = 16;
+    var shift = 44;
+    var tail = 72;
+    var coreMin = Math.max(labelW + gutter, labelW + gutter - shift + tail);
+    var rightBound = w - labelW - gutter;
+    var step = (rightBound - shift - tail - coreMin) / 7;
+    if (step < 36) return;
+    var yTop = h * 0.24;
+    var yMid = h * 0.5;
+    var yBot = h * 0.76;
+    var cores = [];
+    var laneX = [];
+    var i;
+    for (i = 0; i < 8; i++) {
+      cores.push(coreMin + step * i);
+      laneX.push(cores[i] + shift);
+    }
+    svg.setAttribute("viewBox", "0 0 " + w + " " + h);
+    for (i = 0; i < 7; i++) setLine(spine[i], cores[i], yMid, cores[i + 1], yMid, HUE[i]);
+    setLine(spineTail, cores[7], yMid, cores[7] + tail, yMid, HUE[7]);
+    for (i = 0; i < 8; i++) {
+      setLine(topSpoke[i], cores[i], yMid, laneX[i], yTop, HUE[i]);
+      setLine(botSpoke[i], laneX[i], yBot, cores[i], yMid, HUE[previous(i)]);
+    }
+    for (i = 0; i < 7; i++) {
+      setLine(topLane[i], laneX[i], yTop, laneX[i + 1], yTop, HUE[i]);
+      setLine(botLane[i], laneX[i], yBot, laneX[i + 1], yBot, HUE[previous(i)]);
+    }
+    setLine(topLead, laneX[0] - tail, yTop, laneX[0], yTop, HUE[0]);
+    setLine(botLead, laneX[0] - tail, yBot, laneX[0], yBot, HUE[7]);
+    setLine(topTail, laneX[7], yTop, laneX[7] + tail, yTop, HUE[7]);
+    setLine(botTail, laneX[7], yBot, laneX[7] + tail, yBot, HUE[6]);
+    centre.forEach(function (button, index) {
+      button.style.left = cores[index] + "px";
+      button.style.top = yMid + "px";
+      button.classList.toggle("is-left", cores[index] + 92 > w - labelW);
+    });
+    branch.forEach(function (button) {
+      var slot = Number(button.dataset.slot);
+      var y = button.dataset.side === "top" ? yTop : yBot;
+      button.style.left = laneX[slot] + "px";
+      button.style.top = y + "px";
+      button.dataset.x = String(laneX[slot]);
+      button.classList.toggle("is-left", laneX[slot] + 256 > w - labelW);
+    });
+    [["top", yTop], ["mid", yMid], ["bot", yBot]].forEach(function (pair) {
+      root.querySelectorAll('[data-place="' + pair[0] + '"]').forEach(function (el) { el.style.top = pair[1] + "px"; });
+    });
+  }
+  function appendFact(list, key, value) {
+    var term = doc.createElement("dt");
+    var detail = doc.createElement("dd");
+    term.textContent = key;
+    detail.textContent = value;
+    list.append(term, detail);
+  }
+  function inspect(index) {
+    var archive = ARCHIVES[state.lane];
+    var release = archive.releases[index];
+    state.preview = null;
+    state.inspected = index;
+    q("[data-insp-kicker]").textContent = "Authoritative body · Categorical · " + archive.name;
+    q("[data-insp-title]").textContent = release[0];
+    q("[data-insp-body]").textContent = release[1];
+    var facts = q("[data-insp-facts]");
+    facts.replaceChildren();
+    appendFact(facts, "Availability", "Available · retained synthetic public Release");
+    appendFact(facts, "Accessibility", "Public-safe projection only; private source material is absent");
+    appendFact(facts, "Relationship", NAMES[index] + " · " + CATEGORICAL[index]);
+    appendFact(facts, "Utility", archive.values.join(" · "));
+    appendFact(facts, "Click meaning", "Inspect this published stance; do not endorse or alter it");
+    appendFact(facts, "Source", "Human Release · synthetic example");
+    var terms = q("[data-insp-terms]");
+    terms.replaceChildren();
+    archive.terms.forEach(function (term) {
+      var chip = doc.createElement("span");
+      chip.className = "fn-term";
+      chip.textContent = term;
+      terms.appendChild(chip);
+    });
+    inspector.hidden = false;
+    paintCopy();
+  }
+  function closeInspect() {
+    state.inspected = null;
+    inspector.hidden = true;
+    paintCopy();
+  }
+  function togglePreview(button) {
+    state.inspected = null;
+    inspector.hidden = true;
+    state.preview = state.preview === button ? null : button;
+    paintCopy();
+  }
+  function chooseLane(lane) {
+    if (state.lane === lane) return;
+    state.lane = lane;
+    state.inspected = null;
+    state.preview = null;
+    inspector.hidden = true;
+    root.querySelectorAll("[data-lane-choice]").forEach(function (button) {
+      button.setAttribute("aria-pressed", String(Number(button.dataset.laneChoice) === lane));
+    });
+    paintCopy();
+  }
+  build();
+  paintCopy();
+  layout();
+  requestAnimationFrame(layout);
+  if (typeof ResizeObserver === "function") new ResizeObserver(layout).observe(q(".fn-stage"));
+  root.addEventListener("click", function (event) {
+    var laneButton = event.target.closest("[data-lane-choice]");
+    if (laneButton && root.contains(laneButton)) { chooseLane(Number(laneButton.dataset.laneChoice)); return; }
+    var centreButton = event.target.closest(".fn-event");
+    if (centreButton && root.contains(centreButton)) { inspect(Number(centreButton.dataset.index)); return; }
+    var branchButton = event.target.closest(".fn-branch");
+    if (branchButton && root.contains(branchButton)) { togglePreview(branchButton); return; }
+    if (event.target.closest(".fn-close") && root.contains(event.target)) closeInspect();
+  });
+  root.addEventListener("keydown", function (event) {
+    if (!root.contains(event.target)) return;
+    if (event.key === "Escape") {
+      var back = state.preview || (state.inspected !== null ? centre[state.inspected] : null);
+      state.preview = null;
+      closeInspect();
+      if (back) back.focus();
+      return;
+    }
+    var centreButton = event.target.closest(".fn-event");
+    var branchButton = event.target.closest(".fn-branch");
+    if (!centreButton && !branchButton) return;
+    var slot = centreButton ? Number(centreButton.dataset.index) : Number(branchButton.dataset.slot);
+    var side = branchButton ? branchButton.dataset.side : "";
+    var index = branchButton ? branch.indexOf(branchButton) : -1;
+    var next = null;
+    if (event.key === "ArrowRight") next = centreButton ? centre[slot + 1] : branch[index + 2];
+    else if (event.key === "ArrowLeft") next = centreButton ? centre[slot - 1] : branch[index - 2];
+    else if (event.key === "ArrowUp") next = side === "bot" ? centre[slot] : side === "" ? branch[slot * 2] : null;
+    else if (event.key === "ArrowDown") next = side === "top" ? centre[slot] : side === "" ? branch[slot * 2 + 1] : null;
+    else return;
+    if (!next) return;
+    event.preventDefault();
+    next.focus();
+    if (next.classList.contains("fn-event")) inspect(Number(next.dataset.index));
+    else { state.inspected = null; inspector.hidden = true; state.preview = next; paintCopy(); }
+  });
+})();
+</script>
+</section>

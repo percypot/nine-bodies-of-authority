@@ -1,0 +1,24 @@
+{
+  "v": 3,
+  "layout": "files",
+  "createdOnFiles": {
+    "v": 1,
+    "at": "2026-10-26T11:01:31Z"
+  },
+  "title": "Field Notation",
+  "namespace": "FieldNotation",
+  "libraries": [],
+  "sections": {},
+  "groups": [],
+  "assetGroups": {},
+  "blobs": {},
+  "docs": {
+    "sections": []
+  },
+  "lastChange": {
+    "by": "Percy",
+    "at": "2026-10-26T13:50:00Z",
+    "via": "Cursor",
+    "note": "Version 4 HTML rebuilt on the locked tabs: Interactive, Illustrative, Comprehensive, Descriptive, Transcriptive. Listen controls removed. Way colours and the cube stage control added. from arrays still empty. Version 5 is not stamped."
+  }
+}

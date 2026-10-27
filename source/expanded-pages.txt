@@ -1,0 +1,2021 @@
+
+
+===== PAGE 1 =====
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ACT  /  AUTHORISE  /  ACCOUNT
+The Nine Bodies
+of Authority
+A functional model of acting, authorising, and accounting
+Expanded edition: the nine bodies, six cube cycles,
+and the collective overview of authority
+26 October 2026  /  30 pages
+Embodied agent
+Authoritative body
+Authoritative agent
+
+
+===== PAGE 2 =====
+
+CONTENTS
+The Nine Bodies of Authority
+The original framework and examples are retained; fourteen new pages develop the cube and
+its overview.
+Pages
+Reading route
+03-06
+Core pattern, current nine-body matrix, refinements, and the social loop.
+07-11
+The water-contamination example, full walkthrough, and summary table.
+12-16
+Blocked-story recourse, cross-dependencies, rationale, and core terminology.
+17-19
+Four overview panels, the three-bit reading, and the baseline assignment.
+20-24
+Loop 1, both groups of three cycles, the six-cycle atlas, and all transitions.
+25-27
+Eight collective names, governmental influence, and name-to-body mappings.
+28-30
+The water case under the new readings, logic-check results, and reference.
+The idea in one page
+An embodied agent enacts and submits, or responds and requests. An authoritative body approves or
+denies. An authoritative agent records and reviews, returning an account. These positions describe
+functions, including when one institution performs several of them.
+The nine triads form an ordered social loop. The cube is an additional representation of bodies 2-9: a
+three-bit code records a proposed relationship to the three positions. Loop 1 preserves all eight
+assignments checked in the supplied discussion. Other loops are alternative assignments, not
+automatic replacements for that reference.
+CURRENT TERMINOLOGY
+Body 5 now uses Preservational for its reviewing position; body 9 uses Cultural for its acting
+position. Environmental is reserved as the collective name at code 010. The role names and
+body order stay consistent across both documents.
+A separate Elaboration and Logic Companion records the source choices, mathematical checks, semantic limits, and
+reasons for the editorial decisions. All worked cases remain hypothetical.
+The Nine Bodies of Authority
+2
+
+
+===== PAGE 3 =====
+
+The Nine Bodies of Authority
+3
+PART ONE
+The core pattern
+CAPABILITY 1
+Embodied agent
+Agreed capability
+Enacts and submits; responds and
+requests.
+Central question
+What is being proposed,
+attempted, or carried out?
+CAPABILITY 2
+Authoritative body
+Agreed capability
+Approves or denies.
+Central question
+May this proceed under the
+applicable requirements?
+CAPABILITY 3
+Authoritative agent
+Agreed capability
+Records and reviews, returning an
+account.
+Central question
+What occurred, what conditions
+apply, and how does the activity
+compare?
+“Embodied agent” identifies the acting position; it need not imply that every operation is performed by
+one solitary person.
+The authoritative agent’s account also need not wait until an action has finished. Existing records and
+current conditions can inform a request, an approval, an ongoing intervention, or a later review.
+An agent acts or requests; a body authorises or denies; an authoritative
+agent records and reviews. The returned account informs what happens
+next.
+That is the recurring relationship. It does not require every interaction to follow an inflexible three-step
+timetable.
+Three different questions. An action shows that something happened. An approval establishes that a
+designated body permitted it. A reviewed account supplies information about the conditions, process,
+and consequences. None automatically substitutes for the other two.
+
+
+===== PAGE 4 =====
+
+The Nine Bodies of Authority
+4
+PART TWO
+The nine bodies
+ #
+Embodied agent
+enact / submit; respond / request
+Authoritative body
+approve / deny
+Authoritative agent
+record / review, returning an account
+1
+Governmental
+Carries out public administration,
+policy, and military defence.
+Constitutional
+Approves or denies governmental
+proposals against constitutional
+requirements.
+Diplomatic
+Records and reviews national
+relations, commitments, and
+external conditions.
+2
+Legal
+Develops arguments, submits
+applications, and responds to
+decisions.
+Judicial
+Approves or denies applications
+through authoritative legal
+rulings.
+Auditorial
+Independently records and
+reviews authorised material,
+procedures, and outcomes.
+3
+Enforcement
+Requests operational permission
+and carries out authorised
+interventions.
+Intelligence
+Assesses information and
+approves or denies proposed
+operations.
+Surveillance
+Records and reviews observations
+through separately controlled
+monitoring infrastructure.
+4
+Development logistics
+Designs, plans, builds, maintains,
+and moves people and goods.
+Civic welfare
+Approves or denies proposals
+against community requirements.
+Property stewardship
+Records and reviews ownership,
+tenure, possessions, and asset
+responsibilities.
+5
+Energy resources
+Carries out energy generation,
+extraction, mining, and forestry.
+Sanitation
+Approves or denies operations
+against sanitation and
+containment requirements.
+Records and reviews
+environmental conditions,
+impacts, and reported outcomes.
+6
+Medical
+Provides treatment, care, and
+health and fitness interventions.
+Scientific
+Approves or denies proposals
+against established scientific
+requirements.
+Nutritional provision
+Records and reviews food
+production, preparation,
+consumption, and requirements.
+7
+Manufacturing
+Produces goods in response to
+authorised commercial
+requirements.
+Commercial
+Approves or denies business
+proposals, commissions, and
+commitments.
+Financial
+Records and reviews accounts,
+capital, transactions, and
+obligations.
+8
+Content creation
+Produces expressive works,
+entertainment, performances,
+and other creative material.
+Media distribution
+Approves or denies access,
+hosting, publication, and
+distribution.
+News journalism
+Records, investigates, and
+reviews events, claims, and public
+consequences.
+9
+Enacts family, community,
+cultural, and everyday social life.
+Educational
+Approves or denies qualifications
+against knowledge and
+competence requirements.
+Religious
+Records and reviews conduct
+against spiritual and ethical
+frameworks.
+Terms stay within a one-to-two-word limit; the definitions describe each assigned function in the model.
+Preservational
+Cultural
+
+
+===== PAGE 5 =====
+
+The Nine Bodies of Authority
+5
+PART THREE
+Refinements that shaped the model
+Development logistics
+Includes architecture, design, planning proposals, construction, maintenance, and movement. Transport is one
+expression of it; its broader function is to organise and carry out changes in the material world.
+Property stewardship
+Supplies the corresponding account of rights and responsibilities: land, buildings, tenure, district and location
+records, personal possessions, ownership claims, use rights, and asset condition. Maintaining a building and
+maintaining the account of who owns it are distinguishable functions, even when one organisation handles both.
+Sanitation concerns whether energy and resource activity is appropriately contained and responsibly handled.
+environmental outcome remain different things: permission does not establish that the resulting conditions were
+acceptable.
+Nutritional provision
+Extends beyond farming to production, preparation, availability, consumption, diets, and nutritional requirements. Its
+position concerns the recorded and reviewed conditions of nourishment. Producing a meal remains an action; the
+authoritative function is accounting for provision and its relationship to requirements. Pharmaceuticals were not
+settled as an umbrella label and are not reinstated here.
+Financial
+Covers accounts, capital, transactions, obligations, investment positions, and related records. The bank example
+resolves the overlap: financial accounting and commercial approval can coexist within one institution while
+remaining separate functions. Deciding whether to extend a loan is commercial; maintaining and reviewing the
+account is financial.
+Content creation, media distribution, news journalism
+Separates producing expression, deciding its distribution, and investigating or reporting an account. The distinction
+follows the purpose and function of the activity, not whether someone publishes words or video: an influencer can do
+reporting; a journalist can perform for entertainment.
+Diplomatic
+Not an examiner of the home government alone. The delegated representative reviews the nation’s position in
+relation to other nations’ laws and affairs and to the external boundaries and capacities within which it operates.
+Constitutional
+Closer to constitutional adjudication, in the manner of a supreme court reviewing governmental action. Approval
+means permission, not endorsement of the policy.
+Sanitation and preservational
+Preservational supplies the wider account of conditions and consequences. A sanitation approval and an
+
+
+===== PAGE 6 =====
+
+The Nine Bodies of Authority
+6
+PART FOUR
+How the loop moves
+1
+Governmental
+ Constitutional
+ Diplomatic
+2
+Legal
+Judicial
+Auditorial
+3
+Enforcement
+Intelligence
+Surveillance
+4
+Development logistics
+Civic welfare
+Property stewardship
+5
+Energy resources
+Sanitation
+6
+Medical
+Scientific
+Nutritional provision
+7
+Manufacturing
+ Commercial
+ Financial
+8
+Content creation
+ Media distribution
+ News journalism
+9
+ Educational
+ Religious
+THE NINE BODIES
+ OF AUTHORITY
+each returned account
+informs what happens next
+Embodied agent
+Authoritative body
+Authoritative agent
+How the nine rows connect.
+ 1
+Governmental activity needs a basis for public authority and accountability.
+2
+Legal activity gives claims and disputes an organised means of submission and response.
+3
+Enforcement connects authorised decisions with interventions in the world.
+4
+Development logistics supplies the planning, infrastructure, maintenance, and movement those interventions
+require.
+5
+Energy resources supplies material and energetic capacity for operations.
+6
+Medical activity and nutritional provision concern the health and nourishment of the people sustaining those
+operations.
+7
+Manufacturing, commercial, and financial functions concern goods, commitments, and the accounting of
+economic resources.
+8
+Creation, distribution, and journalism concern expression, circulation, and public accounts.
+9
+accounts; experience and scrutiny then feed back into government.
+Preservational
+Cultural
+ The rows are connected responsibilities. Their practical dependencies form
+a network; the ordered route returns from the last body to the first.
+Cultural life is where people encounter, discuss, adopt, contest, and live with those activities and
+
+
+===== PAGE 7 =====
+
+The Nine Bodies of Authority
+7
+PART FIVE
+Worked example: the
+water-contamination case
+Residents of a shared water supply have reason to suspect contamination. The question is not whether
+the model can describe the problem, but how the problem travels: who acts, who permits, and who
+keeps the account at each stage.
+How the case begins
+ #
+Position
+What happens
+1
+Content creation
+A resident uploads a water-concern video. That is embodied action and
+submission.
+2
+Media distribution
+Permits circulation. Participating users approve or reject the proposition through
+their responses; rejection can also make it spread.
+3
+News journalism
+Records and reviews both the claim and the response, checking evidence and
+returning a more developed account to the public.
+4
+Families, workplaces, and neighbours organise a community meeting and
+request precautions.
+5
+Educational
+At the meeting, a speaker or public announcement endorses or rejects proposed
+guidance and explains why.
+6
+Religious
+Asks how the response fits inherited understandings of Creator, reality, truth,
+and obligations to others: was our response truthful and responsible; does
+protecting others require me to reconsider my conduct or my interpretation?
+Faith frames the reflection but does not prove the facts. Test results constrain claims about the water; ethical
+commitments inform responsibility; the review brings the two together into an account.
+The return into government
+The review might produce a shared conviction: “Protecting our neighbours requires honest disclosure of
+dangers to the water we share.” People may agree on that responsibility while disagreeing about its
+interpretation or implementation. Through participation, advocacy, voting, and representation, those
+convictions inform what people ask government to do.
+Religious communities contribute alongside other communities and nonreligious citizens; a religious
+community expresses part of the public’s convictions and does not automatically constitute the majority
+or speak for everyone. The connection works without that equivalence.
+What is moving through the sequence. It is our interpretation of reality, not the physical regularities
+themselves. “Law” is used broadly: what becomes canonical or coherent within an inherited tradition
+(teachings, principles, accepted interpretations), together with the foundational account of reality: principles,
+established findings, results of screenings and observations. A ruling or a doctrine settles a question within its
+authority; it does not determine physical reality.
+Resolving into new interpretations or new laws. A new interpretation can emerge within the religious review
+(what our duty requires now) and feed back into conduct and guidance without becoming a state statute. If
+protection still looks inadequate, the account can go forward as a request for a new law: governmental agents draft
+and submit, constitutional authorises. Any resulting law stays open to review, and the cycle continues.
+Cultural
+
+
+===== PAGE 8 =====
+
+The Nine Bodies of Authority
+8
+PART FIVE CONTINUED
+The full loop, bodies 1 to 3
+Reading order follows the agreed sequence. Each card shows who acts, who permits, and who records, with the account
+that passes to the next body.
+1   Governmental → Constitutional → Diplomatic
+EMBODIED AGENT
+Governmental
+Governmental embodied agents
+consolidate public concerns into a
+proposed collective response:
+investigate the water supply,
+coordinate assistance, and
+propose clearer disclosure
+requirements.
+AUTHORITATIVE BODY
+Constitutional
+The constitutional body considers
+whether that response fits the
+foundational distribution of powers
+and protections, and approves or
+denies on that basis. A conflict
+could prompt revision,
+reinterpretation, or a proposal to
+amend; amendment is a distinct
+process, not an automatic result of
+public agreement.
+AUTHORITATIVE AGENT
+Diplomatic
+The diplomatic agent, as
+delegated representative, reviews
+the response against external
+relationships, commitments, and
+conditions: for example, where a
+water source crosses borders or
+responsibility involves
+neighbouring jurisdictions.
+What passes forward: A publicly proposed response, its constitutional standing, and an account of its wider
+relationships.
+2   Legal → Judicial → Auditorial
+EMBODIED AGENT
+Legal
+Legal embodied agents formulate
+specific claims, arguments,
+applications, and responses: what
+responsibility was owed, what
+evidence supports a breach, and
+what remedy is sought.
+AUTHORITATIVE BODY
+Judicial
+The judicial body approves or
+denies applications and
+determines contested claims
+within its remit. A ruling settles a
+question within its authority; it
+does not determine physical
+reality itself.
+AUTHORITATIVE AGENT
+Auditorial
+The auditorial agent records and
+reviews the evidence presented,
+procedures followed, reasoning
+supplied, and resulting decisions,
+checking that findings and
+principles were represented
+faithfully.
+What passes forward: A defined basis for action, together with an account of how that basis was established.
+3   Enforcement → Intelligence → Surveillance
+EMBODIED AGENT
+Enforcement
+Enforcement embodied agents
+request and carry out
+interventions: inspect a suspected
+discharge site, secure relevant
+evidence, or implement an
+authorised restriction.
+AUTHORITATIVE BODY
+Intelligence
+The intelligence body assesses
+available information and
+approves or denies proposed
+operations within the permissions
+established above.
+AUTHORITATIVE AGENT
+Surveillance
+The surveillance agent records and
+reviews observations and
+operational activity: what was
+found, what occurred, and whether
+subsequent conditions match the
+account provided.
+What passes forward: An operational account of the problem and the practical requirements for addressing it.
+
+
+===== PAGE 9 =====
+
+The Nine Bodies of Authority
+9
+PART FIVE CONTINUED
+The full loop, bodies 4 to 6
+ 4   Development logistics → Civic welfare → Property stewardship
+EMBODIED AGENT
+Development logistics
+Development logistics embodied
+agents design and submit practical
+plans: repair a pipe, establish
+temporary water access, move
+equipment, and organise
+maintenance.
+AUTHORITATIVE BODY
+Civic welfare
+The civic welfare body approves or
+denies proposals against
+community requirements,
+including access, disruption, and
+the needs of affected residents.
+AUTHORITATIVE AGENT
+Property stewardship
+The property stewardship agent
+records and reviews ownership,
+tenure, access rights, asset
+conditions, and responsibilities for
+the infrastructure involved.
+What passes forward: An assessed plan identifying what must be built, moved, maintained, or accessed, and
+who holds the relevant responsibilities.
+5   
+EMBODIED AGENT
+Energy resources
+Energy resources embodied
+agents propose and supply the
+energy and raw materials the work
+needs: power for pumps, fuel for
+transport, and resources for
+replacement infrastructure.
+AUTHORITATIVE BODY
+Sanitation
+The sanitation body approves or
+denies proposed operations
+against containment, cleanliness,
+and waste-handling requirements.
+A sanitation approval and an
+environmental outcome remain
+different things.
+AUTHORITATIVE AGENT
+and reviews ecological conditions
+and consequences: whether
+contamination persists, whether
+remediation helps, and whether
+the work introduces further
+damage.
+What passes forward: An account of the material support supplied and its environmental consequences.
+6   Medical → Scientific → Nutritional provision
+EMBODIED AGENT
+Medical
+Medical embodied agents respond
+to possible health effects, provide
+care, and propose appropriate
+interventions.
+AUTHORITATIVE BODY
+Scientific
+The scientific body assesses those
+proposals against relevant
+evidence and scientific
+requirements, approving or
+denying them within its assigned
+remit.
+AUTHORITATIVE AGENT
+Nutritional provision
+The nutritional provision agent
+records and reviews conditions of
+nourishment: access to safe
+drinking water, effects on food
+preparation, availability of
+alternatives, and whether people’s
+requirements are being met.
+What passes forward: An account of health responses and the conditions necessary to sustain the affected
+population.
+Energy resources → Sanitation → Preservational
+Preservational
+The preservational agent records
+
+
+===== PAGE 10 =====
+
+The Nine Bodies of Authority
+10
+PART FIVE CONTINUED
+The full loop, bodies 7 to 9
+ 7   Manufacturing → Commercial → Financial
+EMBODIED AGENT
+Manufacturing
+Manufacturing embodied agents
+produce required goods:
+replacement pipes, containers,
+treatment equipment, and other
+supplies.
+AUTHORITATIVE BODY
+Commercial
+The commercial body approves or
+denies commissions, purchases,
+contracts, and business
+commitments.
+AUTHORITATIVE AGENT
+Financial
+The financial agent records and
+reviews accounts, capital,
+payments, debts, and obligations.
+The bank distinction applies:
+deciding whether to extend a loan
+is the commercial position;
+maintaining and reviewing the
+account is the financial position.
+What passes forward: Goods, commercial commitments, and a reviewable account of how resources were
+funded and used.
+8   Content creation → Media distribution → News journalism
+EMBODIED AGENT
+Content creation
+Content creation embodied agents
+turn these experiences and
+outcomes into public expression: a
+resident’s update, an explanatory
+video, a documentary, or a critique
+of the response.
+AUTHORITATIVE BODY
+Media distribution
+Media distribution covers decisions
+about publication and circulation,
+together with the audience’s
+acceptance or rejection of the
+proposition. These are
+distinguishable forms of approval:
+permission to publish, decisions to
+recommend or share, and
+agreement with the claim.
+AUTHORITATIVE AGENT
+News journalism
+The news journalism agent
+records, investigates, and reviews
+the emerging account: whether
+repairs occurred, what the tests
+show, how money was spent, and
+whether official promises match
+observed outcomes.
+What passes forward: A public account that people can encounter, question, discuss, and answer.
+9   
+EMBODIED AGENT
+carry the account into everyday
+life through families, workplaces,
+conversations, gatherings, and
+community organising. They
+respond and make further
+requests.
+AUTHORITATIVE BODY
+Educational
+The educational body considers
+and endorses or rejects proposed
+guidance. A community meeting,
+informed speaker, or public
+explanation helps people
+understand the grounds for that
+guidance.
+AUTHORITATIVE AGENT
+Religious
+The religious agent records and
+reviews how the experience
+relates to inherited faith,
+understandings of reality, and
+ethical commitments: whether
+previous interpretations remain
+coherent, whether conduct lived
+up to professed principles, and
+what now requires
+reconsideration.
+What passes forward: A returned understanding that shapes community conduct and the expectations people
+bring to their representatives. The loop returns to governmental activity.
+Cultural → Educational → Religious
+Cultural
+Cultural embodied agents
+
+
+===== PAGE 11 =====
+
+The Nine Bodies of Authority
+11
+PART SIX
+The water case at a glance
+ Body
+In the water case
+Passes forward
+1  Governmental ·
+Constitutional · Diplomatic
+A proposed response to the water concern is
+checked against foundational powers and set
+against external relationships.
+Public response,
+constitutional standing,
+wider relationships
+2  Legal · Judicial · Auditorial
+Claims about responsibility and remedy are
+argued, decided, and independently recorded.
+A defined basis for
+action and how it was
+established
+3  Enforcement · Intelligence ·
+Surveillance
+A site inspection is requested, approved against
+available information, and observed.
+An operational account
+of the problem
+4  Development logistics ·
+Civic welfare · Property
+stewardship
+Repair and temporary access are planned, tested
+against community needs, and tied to who holds
+responsibility.
+An assessed plan with
+named responsibilities
+5  Energy resources ·
+Power and materials are supplied under
+containment rules while ecological outcomes are
+tracked.
+Material support and its
+environmental
+consequences
+6  Medical · Scientific ·
+Nutritional provision
+Care is proposed, tested against evidence, and set
+beside conditions of nourishment.
+Health responses and
+the conditions that
+sustain people
+7  Manufacturing · Commercial
+· Financial
+Pipes and equipment are produced,
+commissioned, and funded, with a reviewable
+account of the money.
+Goods, commitments,
+and a financial account
+8  Content creation · Media
+distribution · News journalism
+The experience becomes public expression;
+distribution decides circulation; journalism checks
+outcomes against promises.
+A public account people
+can question
+9  
+· Religious
+Communities discuss, meet, endorse guidance,
+and review the response against their
+foundations.
+Renewed conviction
+that returns to
+government
+Actual activity also crosses between rows: healthcare may be needed immediately, finance supports earlier
+operations, and journalism can scrutinise any stage. The sequence is a recurring route through connected
+responsibilities, with each returned account able to change what happens next.
+Sanitation · Preservational
+Cultural · Educational
+
+
+===== PAGE 12 =====
+
+The Nine Bodies of Authority
+12
+PART SEVEN
+Second example: the blocked story
+An illustration inside the model, not a claim about any real case. A local journalist investigates why a
+community bridge-repair contract ran well over budget. The account is complete and evidenced, but the
+main media distributor declines to carry it.
+The route of recourse
+ #
+Position
+What happens
+1
+News journalism
+Records and reviews contract papers, payments, and statements, and returns
+an evidenced account.
+2
+Media distribution
+Declines publication. The approval is denied; the account exists but has no route
+through this gate.
+3
+The journalist takes the account into conversation, a public meeting, and
+independent sharing. It is carried by people instead of by the distributor.
+4
+Educational
+A public explainer helps residents read the records and know what questions to
+ask.
+5
+Religious
+Reviews conduct against commitments about stewardship of shared resources
+and honesty in public dealings.
+6
+Governmental
+Public pressure becomes a proposed response: a review of the contract and
+clearer disclosure.
+7
+Constitutional
+Checks the proposed response against powers and protections; approves or
+denies.
+8
+Legal, judicial,
+auditorial
+Residents submit a records request or complaint; a ruling decides it; the
+auditorial agent records the papers produced, the procedure, and the decision.
+9
+Commercial and
+financial
+The original contract approval is set beside the financial account of payments.
+One institution may hold both, but the functions stay separate.
+The pattern. A blocked journalistic account can enter community circulation and potentially return as public
+pressure, a legal claim, or a demand for governmental response. A refusal in one domain need not end the
+matter if another legitimate route remains available.
+Two qualifications
+Accessibility. The community route must actually be usable. If the same gatekeeper controls it too, its alternative
+name does not create an alternative path.
+Circulation is not truth. A truthful account and a false rumour can both become trends. The route preserves the
+possibility of being heard; investigation, evidence, and review remain necessary for assessing the claim.
+Cultural
+
+
+===== PAGE 13 =====
+
+The Nine Bodies of Authority
+13
+PART EIGHT
+Beyond a straight line
+The nine-row sequence organises the explanation, while the actual dependencies form a network.
+Several relationships show why the model treats the rows as connected responsibilities and not as a
+ladder.
+Relationship
+What it shows
+Development depends on finance
+A logistics plan is sustained by commercial and financial relationships,
+not only by its own row.
+Medical depends on logistics
+Care reaches people through planning, movement, and maintained
+infrastructure.
+Journalism depends on people,
+equipment, and energy
+The scrutinising agent still needs material and social conditions it cannot
+produce alone.
+Funding and energy both sustain an
+operation
+They do not collapse into one category: funding belongs to commercial
+and financial relationships; energy supplies physical capacity. The
+engine metaphor connects them without merging them.
+One institution, several functions
+A bank approves loans and keeps accounts; the approving and
+accounting positions stay distinct.
+The strongest version of the framework treats the sequence as a recurring route through connected
+responsibilities, with each returned account capable of changing what happens next.
+
+
+===== PAGE 14 =====
+
+The Nine Bodies of Authority
+14
+PART NINE
+Five connected propositions
+1
+Acting, permitting, and accounting answer different questions.
+An action demonstrates that something happened. An approval establishes that a designated body
+permitted it. A reviewed account supplies information about conditions, process, and consequences.
+None substitutes for the other two.
+2
+Functional distinction makes responsibility easier to locate.
+When an operation fails, the model helps separate an inadequate proposal, an unjustified approval, poor
+execution, and an incomplete or misleading account. Several can occur together, but they are different
+failures requiring different responses.
+3
+The account must remain capable of informing subsequent activity.
+Records that cannot reach anyone able to respond have limited corrective value. Review informs further
+requests, decisions, corrections, or challenges.
+4
+Every domain depends on conditions it cannot produce alone.
+Public authority requires implementation; implementation requires infrastructure, resources, and people;
+sustaining people requires health, nourishment, goods, and economic coordination; accountability
+requires communication and social engagement.
+5
+Connections between domains can provide recourse when a local process
+fails.
+The journalism-to-community route demonstrates the principle. Additional routes elsewhere in the
+framework are still to be investigated and have not all been agreed.
+Together these explain why the framework is more than a list of professions: it combines a classification
+of capabilities with a proposed account of how social activity is sustained and made answerable.
+
+
+===== PAGE 15 =====
+
+The Nine Bodies of Authority
+15
+PART TEN
+Established, and still to be tested
+Established so far
+Further design work needed
+•  The three capabilities and their recurring
+relationship.
+•  The nine-triad order and the refined category
+names.
+•  Classification by function, including several
+functions within one institution.
+•  Practical interdependence between domains.
+for blocked journalism.
+•  Who occupies each authorising position, and the
+limits of their remit.
+•  What makes an account sufficiently independent
+and open to challenge.
+•  How conflicting approvals or accounts are
+resolved.
+•  Which alternative routes of recourse exist beyond
+the journalism example.
+•  How the model handles cases that cross several
+domains at once.
+These are implementation questions rather than reasons to abandon the structure, but they matter to
+the strength of its claims.
+An active journalism-to-community link can support accountability; it does not by itself prove that
+government is democratic, rights are protected, or every other domain functions properly. Showing that
+an operation requires energy, logistics, or finance identifies necessary support, not proof that adequate
+support exists.
+The nine domains provide a coherent proposed organisation. Their completeness and optimality would
+need testing against concrete cases, and are not established by the symmetry of the table.
+•  Cultural circulation as a potential recourse
+
+
+===== PAGE 16 =====
+
+CORE REFERENCE
+Terms and naming notes
+Term
+Meaning in the framework
+Body of authority
+A complete triad: an embodied agent, authoritative body, and authoritative agent.
+Embodied agent
+Enacts and submits; responds and requests. The acting position.
+Authoritative body
+Approves or denies within the applicable remit. The approving position.
+Authoritative agent
+Records and reviews, returning an account. The reviewing position.
+Account
+Observations, evidence, reasoning, or consequences available to inform a response.
+Route of recourse
+An accessible alternative when a particular decision or distribution route fails.
+Law, in the broader
+discussion
+Public rules, canonical teachings, and descriptions of physical regularities can
+inform the same argument while remaining distinguishable.
+Current naming decisions
+The Nine Bodies of Authority remains the umbrella title. Row 8 remains Content creation / Media
+distribution / News journalism. Pharmaceuticals is not adopted as an umbrella label for nutritional
+provision.
+Preservational replaces Environmental as the reviewing position of body 5. Cultural replaces
+Socio-cultural as the embodied position of body 9. These changes follow the supplied expansion
+material and are applied to the retained framework and examples.
+Diplomatic retains its delegated, outward-facing representation and review function. Educational
+includes public explanation and endorsement of guidance as well as formal qualifications. Audience
+reception and platform permission remain distinguishable within media distribution.
+CONTINUE ON PAGE 17
+The next section adds codes and collective labels to the existing model. A collective label
+describes a whole triad at a chosen code; it does not rename one of that triad's three positions.
+The Nine Bodies of Authority
+16
+
+
+===== PAGE 17 =====
+
+EXPANSION / OVERVIEW
+Four panels, two kinds of reading
+Three role-led cycle views sit beside a collective overview of the same eight codes.
+01 / E pulse
+Loop 1
+Embodied-agent pulse: the acting bit changes four
+times. The baseline body assignment is retained.
+02 / B pulse
+Loop 2
+Authoritative-body pulse: a different assignment
+emphasises the approving bit in the traversal.
+03 / A pulse
+Loop 3
+Authoritative-agent pulse: the reviewing bit
+supplies the alternating pulse.
+04 / Collective overview
+Eight code names
+Names the eight whole-triad patterns and
+distinguishes reciprocity from governmental
+dominance.
+What the fourth panel contributes
+The overview gives one collective name to each code and reads the governmental triad through a
+different question about relative influence. It is an interpretive layer over the cube. A separate
+governmental traversal has not been fixed, so this edition does not invent a new meta-cycle or a
+permanent name for it.
+The second group of three cycles, Loops 4-6, completes the six distinct cycles of the labelled cube. It is
+set out on page 22. The fourth overview panel and the numbered Loop 4 are different objects: one is a
+way of interpreting the code set; the other is a particular route through it.
+READING RULE
+The terms are kept separate throughout: body = social triad; code = three-bit state; loop = an
+ordered traversal; collective name = a label attached to a code.
+This is the working interpretation of the requested fourth overview. It incorporates the supplied three-axis
+dominance proposal without treating an unfinished path or measurement rule as already settled.
+The Nine Bodies of Authority
+17
+
+
+===== PAGE 18 =====
+
+EXPANSION / CODING
+Three bits, read E-B-A
+Left to right: embodied agent, authoritative body, authoritative agent.
+Bi
+t
+Role
+Working reciprocity test
+E
+Embodied agent
+Can the person initiate or request the relevant action as well as be its
+recipient or subject?
+B
+Authoritative body
+What reciprocal standing, access, or participation does the person have in
+the approving relationship?
+A
+Authoritative agent
+Can the person see and review the relevant account of their participation or
+representation?
+The two-way idea
+For bodies 2-9, the supplied working reading gives 1 to a relationship treated as reciprocal or equal in
+kind, and 0 to a relationship treated as one-way, distorted, or outside that reciprocity. Earlier language
+of "in focus" and "out of focus" is retained as shorthand for this reading.
+The operational tests differ by role. Requesting an action, accessing information, reviewing an account,
+and possessing equal influence are related but distinct capabilities. The reference codes preserve the
+proposed reading; they are not measurements proving that these capabilities coincide in every real
+institution.
+Code form
+Question
+Meaning of 1
+R = (E,B,A)
+How reciprocal is this relationship under the
+selected test?
+The specified reciprocal capability is
+treated as present.
+D = (E,B,A)
+Which side has greater influence relative to a
+stated reference?
+The role has greater influence than
+that reference, under the convention
+used here.
+AVOIDING A CATEGORY ERROR
+Always name the reading. R = 101 and D = 101 share the same three symbols but assert
+different things. Neither can be inferred from the other without an additional rule.
+A zero does not mean the position disappears, the activity is forbidden, or no contact occurs. A one does not grant
+unlimited access or universal legal entitlement. These are proposed coding conventions for the framework.
+The Nine Bodies of Authority
+18
+
+
+===== PAGE 19 =====
+
+EXPANSION / BASELINE
+The retained body-to-code assignment
+Loop 1 preserves all eight assignments checked against the author's intuition in the supplied
+discussion.
+Bod
+y
+Collective name / R
+Whole triad
+1-bits
+2
+Consequential
+1 0 1
+Legal
+Judicial
+Auditorial
+E + A
+3
+Deterministic
+1 1 1
+Enforcement
+Intelligence
+Surveillance
+E + B +
+A
+4
+Propositional
+0 1 1
+Development logistics
+Civic welfare
+Property stewardship
+B + A
+5
+Environmental
+0 1 0
+Energy resources
+Sanitation
+Preservational
+B
+6
+Reproducible
+1 1 0
+Medical
+Scientific
+Nutritional provision
+E + B
+7
+Contractual
+1 0 0
+Manufacturing
+Commercial
+Financial
+E
+8
+Transmissible
+0 0 0
+Content creation
+Media distribution
+News journalism
+none
+9
+Transformational
+0 0 1
+Cultural
+Educational
+Religious
+A
+The body numbers and their positions stay fixed. Codes can vary between loops, and code-based
+names move with them. All three positions belong to the same coded triad in a given view. Body 4 is
+011 in Loop 1 and 110 in Loops 2 and 3: these are alternative whole-body readings.
+FULL BASELINE VERSUS TWO ANCHORS
+If all eight baseline assignments are held fixed, only Loop 1 matches them. If only body 2 = 101
+and body 3 = 111 are held fixed, Loops 1-4 remain possible.
+The Nine Bodies of Authority
+19
+
+
+===== PAGE 20 =====
+
+EXPANSION / GEOMETRY
+Loop 1: one bit changes at a time
+An eight-vertex Hamiltonian cycle on the three-dimensional Boolean cube.
+000
+001
+010
+011
+100
+101
+110
+111
+Eight states
+Three binary positions give 2 × 2 × 2 =
+8 combinations.
+Twelve edges
+Each state has three one-bit neighbours;
+counting each edge once gives 8 × 3 / 2
+= 12.
+One complete cycle
+Visit every state once and close with
+another one-bit step.
+101
+111
+011
+010
+110
+100
+000
+001
+Return from 001 to 101 to close the loop. Edge colours identify the changing bit: E teal, B ochre, A blue. Grey dashed
+edges belong to the cube but are not used by this cycle.
+From body
+To body
+Code change
+Bit changed
+2 / Legal
+3 / Enforcement
+101 → 111
+B
+3 / Enforcement
+4 / Development logistics
+111 → 011
+E
+4 / Development
+logistics
+5 / Energy resources
+011 → 010
+A
+5 / Energy resources
+6 / Medical
+010 → 110
+E
+6 / Medical
+7 / Manufacturing
+110 → 100
+B
+7 / Manufacturing
+8 / Content creation
+100 → 000
+E
+8 / Content creation
+9 / Cultural
+000 → 001
+A
+9 / Cultural
+2 / Legal, via the social return
+001 → 101
+E
+The social route passes through body 1 between bodies 9 and 2. The cube compresses that return into a closing
+edge; it does not assign body 1 a ninth vertex.
+The Nine Bodies of Authority
+20
+
+
+===== PAGE 21 =====
+
+EXPANSION / FIRST GROUP
+Loops 1-3: three pulse families
+The pulse is the bit that changes four times, on alternating edges. It names a traversal, not a
+political ruler.
+Loop 1 / E pulse
+101
+111
+011
+010
+110
+100
+000
+001
+Loop 2 / B pulse
+101
+111
+110
+100
+000
+010
+011
+001
+Loop 3 / A pulse
+101
+111
+110
+010
+011
+001
+000
+100
+Bod
+y
+Fixed triad label
+Loop 1
+Loop 2
+Loop 3
+2
+Legal
+1 0 1
+1 0 1
+1 0 1
+3
+Enforcement
+1 1 1
+1 1 1
+1 1 1
+4
+Development logistics
+0 1 1
+1 1 0
+1 1 0
+5
+Energy resources
+0 1 0
+1 0 0
+0 1 0
+6
+Medical
+1 1 0
+0 0 0
+0 1 1
+7
+Manufacturing
+1 0 0
+0 1 0
+0 0 1
+8
+Content creation
+0 0 0
+0 1 1
+0 0 0
+9
+Cultural
+0 0 1
+0 0 1
+1 0 0
+Loop 1 is the reference assignment. Loops 2 and 3 preserve the first two anchors, but change later
+body-to-code relationships. Their semantic fit is a separate question from their mathematical validity.
+With the E/B/A meanings held fixed, naming a loop after its pulse does not itself create a new observer perspective
+or prove that the associated role "leads" society. Those are interpretations to test, not properties of the graph.
+The Nine Bodies of Authority
+21
+
+
+===== PAGE 22 =====
+
+EXPANSION / SECOND GROUP
+Loops 4-6: the remaining three
+Together the two groups exhaust the six distinct undirected cycles of the labelled cube.
+Loop 4 / B pulse
+101
+111
+011
+001
+000
+010
+110
+100
+Loop 5 / E pulse
+101
+100
+000
+010
+110
+111
+011
+001
+Loop 6 / A pulse
+101
+100
+110
+111
+011
+010
+000
+001
+Bod
+y
+Fixed triad label
+Loop 4
+Loop 5
+Loop 6
+2
+Legal
+1 0 1
+1 0 1
+1 0 1
+3
+Enforcement
+1 1 1
+1 0 0
+1 0 0
+4
+Development logistics
+0 1 1
+0 0 0
+1 1 0
+5
+Energy resources
+0 0 1
+0 1 0
+1 1 1
+6
+Medical
+0 0 0
+1 1 0
+0 1 1
+7
+Manufacturing
+0 1 0
+1 1 1
+0 1 0
+8
+Content creation
+1 1 0
+0 1 1
+0 0 0
+9
+Cultural
+1 0 0
+0 0 1
+0 0 1
+Loop 4 preserves 101 → 111. Loops 5 and 6 omit that edge entirely. From 101 they reach 100 in the
+listed direction, or 001 in the reverse direction. Neither can put body 3 at 111 while body 2 remains at
+101.
+STRUCTURAL COMPLETION
+Loops 5 and 6 are valid mathematical cycles and are included to complete the structure. They are
+not adopted as replacements for the baseline. Group A / Group B is a presentation choice; the
+cube does not require this particular grouping.
+The Nine Bodies of Authority
+22
+
+
+===== PAGE 23 =====
+
+EXPANSION / ATLAS
+All six cycles on the same cube
+Fixed E-B-A axes throughout. Coloured edges belong to the loop; dashed edges do not.
+000
+001
+010
+011
+100
+101
+110
+111
+L1  /  E pulse
+BEAEBEAE
+000
+001
+010
+011
+100
+101
+110
+111
+L2  /  B pulse
+BABEBABE
+000
+001
+010
+011
+100
+101
+110
+111
+L3  /  A pulse
+BAEABAEA
+000
+001
+010
+011
+100
+101
+110
+111
+L4  /  B pulse
+BEBABEBA
+000
+001
+010
+011
+100
+101
+110
+111
+L5  /  E pulse
+AEBEAEBE
+000
+001
+010
+011
+100
+101
+110
+111
+L6  /  A pulse
+ABAEABAE
+The strings below the cubes list the eight changed bits, including the closing edge. Every loop has flip counts 4, 2, 2.
+There are two cycles in each pulse family.
+Count convention: six cycles with vertex labels fixed, identifying reversal and starting-point changes. With the start
+fixed at 101 and direction retained, there are twelve traversals. Rotating the axes is a different equivalence
+convention.
+The Nine Bodies of Authority
+23
+
+
+===== PAGE 24 =====
+
+EXPANSION / TRANSITIONS
+What changes at every step
+All eight edges are included. The final row closes the route back to 101.
+Bodies
+L1
+L2
+L3
+L4
+L5
+L6
+2 → 3
+B
+B
+B
+B
+A
+A
+3 → 4
+E
+A
+A
+E
+E
+B
+4 → 5
+A
+B
+E
+B
+B
+A
+5 → 6
+E
+E
+A
+A
+E
+E
+6 → 7
+B
+B
+B
+B
+A
+A
+7 → 8
+E
+A
+A
+E
+E
+B
+8 → 9
+A
+B
+E
+B
+B
+A
+9 → 2
+E
+E
+A
+A
+E
+E
+Loo
+p
+E flips
+B flips
+A flips
+Closing edge
+Matches baseline
+1
+4
+2
+2
+001 → 101
+8 / 8
+2
+2
+4
+2
+001 → 101
+3 / 8
+3
+2
+2
+4
+100 → 101
+4 / 8
+4
+2
+4
+2
+100 → 101
+3 / 8
+5
+4
+2
+2
+001 → 101
+4 / 8
+6
+2
+2
+4
+001 → 101
+3 / 8
+Three different comparisons
+Pulse-family partners: L1/L5 share E; L2/L4 share B; L3/L6 share A. E-A axis-swap pairs: L1/L3,
+L2/L4, and L5/L6. Presentation groups: L1-L3 and L4-L6. These are different ways of relating the
+same six cycles.
+The E-A swap reverses the first and third bit positions while leaving 101 and 111 fixed. It preserves graph structure
+but changes the roles associated with those coordinates. Consequently geometric symmetry is not evidence that
+acting and accounting are socially interchangeable.
+The Nine Bodies of Authority
+24
+
+
+===== PAGE 25 =====
+
+EXPANSION / COLLECTIVE NAMES
+Eight names for whole-triad patterns
+The supplied vocabulary is retained. The reasons are interpretive associations with the
+baseline bodies.
+Code
+Collective name
+Baseline body
+Naming rationale
+1 0 1
+Consequential
+2 / Legal
+Claims, rulings, and an audit connect action to
+consequences and their account.
+1 1 1
+Deterministic
+3 / Enforcement
+Intervention, assessment, and observation give
+the label a sense of structured determination.
+0 1 1
+Propositional
+4 / Development
+logistics
+Planning, community consideration, and
+stewardship organise proposed changes and their
+implications.
+0 1 0
+Environmental
+5 / Energy resources
+Resources, containment, and preservation connect
+activity to its surrounding conditions.
+1 1 0
+Reproducible
+6 / Medical
+Care, scientific assessment, and nourishment
+foreground dependable practice and examinable
+results.
+1 0 0
+Contractual
+7 / Manufacturing
+Production, commercial commitment, and finance
+organise exchanges and continuing obligations.
+0 0 0
+Transmissible
+8 / Content creation
+Creation, distribution, and journalism concern
+material carried into public circulation.
+0 0 1
+Transformational
+9 / Cultural
+Cultural life, learning, and religious reflection can
+alter understanding and subsequent conduct.
+How much the names claim
+Consequential and Deterministic were explicitly selected in the supplied exchange. The complete
+eight-name set and the two position renames are carried forward from the supplied expansion material
+as the working vocabulary of this edition.
+A name is not a theorem about its bits. In particular, 111 does not prove that outcomes are fixed; 000
+does not prove unconstrained transmission; and 110 does not establish reproducibility. The names
+help organise interpretation while the code definition must do the analytical work.
+Reproducible remains the most visibly strained cross-loop label: it fits the intended medical/scientific association
+more readily than the development and property triad, which occupies 110 in Loops 2 and 3. The companion sets out
+this limitation without silently changing the chosen name.
+The Nine Bodies of Authority
+25
+
+
+===== PAGE 26 =====
+
+EXPANSION / GOVERNMENTAL OVERVIEW
+The top row asks a different question
+A dominance reading for Governmental / Constitutional / Diplomatic, kept separate from the
+reciprocity coding.
+The later proposal preserves three axes but asks whether each role has greater or lesser influence
+relative to a specified reference. To make the table readable, this edition uses the individual
+participant as a provisional reference: 1 = the role has more influence; 0 = the role has less. This
+convention is not a completed measurement scheme.
+D
+code
+Shared label
+Governmental
+Constitutional
+Diplomatic
+1 0 1
+Consequential
+Greater
+Lesser
+Greater
+1 1 1
+Deterministic
+Greater
+Greater
+Greater
+0 1 1
+Propositional
+Lesser
+Greater
+Greater
+0 1 0
+Environmental
+Lesser
+Greater
+Lesser
+1 1 0
+Reproducible
+Greater
+Greater
+Lesser
+1 0 0
+Contractual
+Greater
+Lesser
+Lesser
+0 0 0
+Transmissible
+Lesser
+Lesser
+Lesser
+0 0 1
+Transformational
+Lesser
+Lesser
+Greater
+What needs to be specified in use
+Influence must be relative to someone, over a stated decision, at a stated time, and under a stated
+comparison rule. Nomination and appointment, adherence and amendment, and representation and
+opposition provide questions to examine. None alone determines a bit or a regime's democratic status.
+Equal influence and unknown influence fall outside a strict greater-than / less-than split. They must be
+marked separately or the coding rule must be extended. Lesser influence also does not automatically
+mean consent, public control, or that the role reliably "answers to you".
+TWO USES OF THE TOP ROW
+Body 1 can be represented at any of the eight dominance codes. That independent code is not an
+extra corner inserted into the eight-state reciprocity cycle. The social return and the
+governmental dominance state are related interpretations with no specified transition rule yet.
+The Nine Bodies of Authority
+26
+
+
+===== PAGE 27 =====
+
+EXPANSION / MAPPINGS
+Where the collective names land
+Names follow codes. Body numbers continue to refer to the same social triads.
+Loops 1, 2, 3
+ Body
+Loop 1
+Loop 2
+Loop 3
+2
+1 0 1
+Consequential
+1 0 1
+Consequential
+1 0 1
+Consequential
+3
+1 1 1
+Deterministic
+1 1 1
+Deterministic
+1 1 1
+Deterministic
+4
+0 1 1
+Propositional
+1 1 0
+Reproducible
+1 1 0
+Reproducible
+5
+0 1 0
+Environmental
+1 0 0
+Contractual
+0 1 0
+Environmental
+6
+1 1 0
+Reproducible
+0 0 0
+Transmissible
+0 1 1
+Propositional
+7
+1 0 0
+Contractual
+0 1 0
+Environmental
+0 0 1
+Transformational
+8
+0 0 0
+Transmissible
+0 1 1
+Propositional
+0 0 0
+Transmissible
+9
+0 0 1
+Transformational
+0 0 1
+Transformational
+1 0 0
+Contractual
+Loops 4, 5, 6
+ Body
+Loop 4
+Loop 5
+Loop 6
+2
+1 0 1
+Consequential
+1 0 1
+Consequential
+1 0 1
+Consequential
+3
+1 1 1
+Deterministic
+1 0 0
+Contractual
+1 0 0
+Contractual
+4
+0 1 1
+Propositional
+0 0 0
+Transmissible
+1 1 0
+Reproducible
+5
+0 0 1
+Transformational
+0 1 0
+Environmental
+1 1 1
+Deterministic
+6
+0 0 0
+Transmissible
+1 1 0
+Reproducible
+0 1 1
+Propositional
+7
+0 1 0
+Environmental
+1 1 1
+Deterministic
+0 1 0
+Environmental
+8
+1 1 0
+Reproducible
+0 1 1
+Propositional
+0 0 0
+Transmissible
+9
+1 0 0
+Contractual
+0 0 1
+Transformational
+0 0 1
+Transformational
+Body 6 is Reproducible in Loop 1 but Propositional in Loop 3. Body 4 is Propositional in Loops 1 and 4, but
+Reproducible in Loops 2 and 3. Use the named loop consistently when making either statement.
+The Nine Bodies of Authority
+27
+
+
+===== PAGE 28 =====
+
+EXPANSION / APPLICATION
+The water case under the cube
+The narrative and the coding answer different questions about the same body sequence.
+Bo
+dy
+Baseline R / label
+What the water narrative supplies
+2
+1 0 1
+Consequential
+Claims about obligations, a decision, and a reviewable audit.
+3
+1 1 1
+Deterministic
+A requested inspection, operational assessment, and observations.
+4
+0 1 1
+Propositional
+Repair proposals, community consideration, and asset
+responsibilities.
+5
+0 1 0
+Environmental
+Power and materials, containment decisions, and preservation
+records.
+6
+1 1 0
+Reproducible
+Care proposals, evidence assessment, and conditions of
+nourishment.
+7
+1 0 0
+Contractual
+Equipment production, commercial commitments, and financial
+records.
+8
+0 0 0
+Transmissible
+Public updates, distribution and audience response, and reporting.
+9
+0 0 1
+Transformational
+Community discussion, explained guidance, and religious reflection.
+What this application demonstrates
+The example shows how each triad can contribute to a coherent response. It does not measure the
+residents' actual reciprocity with every position. The R codes remain the proposed baseline assignment
+unless evidence about a defined participant and capability supports a separate empirical coding.
+A resident can post, dispute, and share material even though body 8 carries baseline R = 000. That
+potential tension should be examined under the chosen reciprocity test. It cannot be resolved simply
+by declaring that all public participation is one-way.
+A USEFUL TEST
+The observed response may challenge the code assignment. If an application repeatedly requires
+exceptions to keep its bits, revise the interpretation or the assignment explicitly rather than
+quietly changing what 1 means.
+The Nine Bodies of Authority
+28
+
+
+===== PAGE 29 =====
+
+EXPANSION / AUDIT
+What the independent check establishes
+The mathematical paths were recomputed from the three-bit adjacency rule.
+Check
+Finding
+Consequence
+Vertices and edges
+8 vertices; 12 one-bit edges.
+The geometry is Q3.
+Distinct cycles
+6 undirected cycles with labels fixed.
+The six supplied loops cover the complete
+set under this convention.
+Cycle validity
+All 6 visit 8 states once and close by
+one bit.
+All are Hamiltonian Gray cycles.
+Pulse pattern
+Each has counts 4,2,2; the four-flip
+role alternates.
+Two cycles per pulse family.
+Two-anchor test
+L1-L4 use 101 → 111; L5-L6 do not.
+Only four preserve the first two assigned
+bodies.
+Full-baseline test
+Only L1 matches all eight
+assignments.
+Anchor-compatible is weaker than
+baseline-compatible.
+Mixed-loop readout
+011 → 100 changes three bits.
+Selected rows from different loops need a
+fresh adjacency check.
+Name collision
+Preservational differs from
+Environmental.
+Whole-body label and position name are
+distinct.
+Semantic fit
+Not established by cycle verification.
+Reciprocity, influence, and naming require
+separate assessment.
+Corrections that matter
+The original cube draft both reported all Loop 1 rows as checked and later said rows 4-9 were untested.
+This edition follows the explicit confirmation of the whole first loop. Other traversals remain
+alternatives whose social interpretation is not established by their geometry.
+The audit does not adopt every claim from the supplied code comments. Four compatible first edges do not mean
+four fully confirmed body assignments. An alternating pulse does not imply political dominance. A dominance code
+does not prove determinism, democracy, or unrestricted action.
+The Nine Bodies of Authority
+29
+
+
+===== PAGE 30 =====
+
+EXPANSION / REFERENCE
+A stable reference for further work
+Current decisions, open questions, and source basis.
+Item
+Current treatment
+Social structure
+Nine bodies in the original order; three functional positions in each.
+Current position names
+Preservational in body 5; Cultural in body 9; Content creation / Media distribution /
+News journalism in body 8.
+Primary coding
+Loop 1: 101, 111, 011, 010, 110, 100, 000, 001.
+Alternative traversals
+L2-L4 retain two anchors; L5-L6 complete the cycle set while relaxing that anchor
+condition.
+Collective names
+Consequential, Deterministic, Propositional, Environmental, Reproducible,
+Contractual, Transmissible, Transformational, in Loop 1 order.
+Fourth overview
+Collective labels and the separate governmental dominance reading; no new named
+meta-path is fixed.
+Still to define
+Reference and scale for influence; handling equality and uncertainty; cross-loop
+semantic fit; any actual meta-transition rule.
+Source basis
+Core source: the supplied 16-page The Nine Bodies of Authority PDF. Cube source: the supplied four-page Nine
+Bodies three cube loops draft. The pasted conversation, source-code drafts, and later data dictionary supplied the
+subsequent naming and coding proposals. Duplicate PDF uploads were byte-identical and treated as copies of one
+source each.
+The original examples and core chapter order are retained. The fourteen-page expansion distinguishes source
+choices, independently verified graph properties, and proposed interpretations. The companion provides the
+rationale, complete audit convention, and remaining limitations in detail.
+The framework becomes stronger when its social claims remain open to the same recording,
+review, and revision that it asks of the institutions it describes.
+The Nine Bodies of Authority
+30

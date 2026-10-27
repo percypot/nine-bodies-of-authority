@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Interactive matrixes</title>
+<style>
+/* Field Notation table grammar. Way hues follow the v4 document :root
+   (spec §12: one hue per position). Tokens live on the wrapper so this
+   fragment can be embedded without rewriting the host :root. */
+.fn-matrices{
+  --ground:#f3efe4;--surface:#fffefc;--sunk:#ebe6d9;
+  --ink:#1b1a20;--ink-2:#4b4854;--ink-3:#6c6870;
+  --line:#d7d2c9;--rule:#c8c0b2;--focal:#b5452b;
+  --act:#c8741e;--decide:#3c9447;--record:#4479c9;
+  --way-1:var(--act);--way-2:var(--decide);--way-3:var(--record);
+  --control:#6c6870;
+  --serif:"Newsreader","Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  --sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  box-sizing:border-box;
+  background:var(--ground);
+  color:var(--ink);
+  font:16.5px/1.62 var(--serif);
+  padding:24px 16px 48px;
+  -webkit-font-smoothing:antialiased;
+}
+.fn-matrices *,.fn-matrices *::before,.fn-matrices *::after{box-sizing:border-box}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]) .fn-matrices{
+    --ground:#0d0e10;--surface:#15171a;--sunk:#1b1d21;
+    --ink:#f3efe4;--ink-2:#c9c6bd;--ink-3:#9a9c95;
+    --line:#2a2c31;--rule:#3a3d44;--focal:#ffb4a6;
+    --act:#e8a36a;--decide:#9ad84a;--record:#5ccfe6;
+    --way-1:var(--act);--way-2:var(--decide);--way-3:var(--record);
+    --control:#9a9c95;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"] .fn-matrices{
+  --ground:#0d0e10;--surface:#15171a;--sunk:#1b1d21;
+  --ink:#f3efe4;--ink-2:#c9c6bd;--ink-3:#9a9c95;
+  --line:#2a2c31;--rule:#3a3d44;--focal:#ffb4a6;
+  --act:#e8a36a;--decide:#9ad84a;--record:#5ccfe6;
+  --way-1:var(--act);--way-2:var(--decide);--way-3:var(--record);
+  --control:#9a9c95;
+  color-scheme:dark;
+}
+:root[data-theme="light"] .fn-matrices{color-scheme:light}
+body:has(> .fn-matrices){margin:0}
+body > .fn-matrices{min-height:100vh}
+.fn-matrices .tbl{
+  overflow-x:auto;
+  margin:0 0 22px;
+  border:1px solid var(--line);
+  border-radius:14px;
+  background:var(--surface);
+}
+.fn-matrices .tbl.wide table{min-width:720px}
+.fn-matrices table{
+  border-collapse:collapse;
+  width:100%;
+  font:15px/1.45 var(--serif);
+  background:var(--surface);
+}
+.fn-matrices caption{
+  caption-side:top;
+  text-align:left;
+  padding:14px 14px 8px;
+  background:var(--surface);
+}
+.fn-matrices .kicker{
+  display:block;
+  font:700 10.5px/1.2 var(--mono);
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+}
+.fn-matrices .note{
+  display:block;
+  margin-top:6px;
+  font:14px/1.5 var(--serif);
+  letter-spacing:0;
+  text-transform:none;
+  color:var(--ink-2);
+}
+.fn-matrices th{
+  background:var(--ink);
+  color:var(--ground);
+  text-align:left;
+  font:700 10.5px/1.3 var(--mono);
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  padding:10px 14px;
+  vertical-align:bottom;
+}
+.fn-matrices td{
+  padding:10px 14px;
+  border-top:1px solid var(--line);
+  vertical-align:top;
+}
+.fn-matrices th[scope="row"]{
+  background:var(--surface);
+  color:var(--ink);
+  font:15px/1.45 var(--serif);
+  letter-spacing:0;
+  text-transform:none;
+  font-weight:400;
+  white-space:normal;
+}
+.fn-matrices .n{
+  display:inline-block;
+  min-width:1.25rem;
+  margin-right:8px;
+  font:650 12.5px/1.4 var(--mono);
+  color:var(--ink-2);
+  font-variant-numeric:tabular-nums;
+}
+.fn-matrices .pos{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  margin:2px 12px 2px 0;
+  white-space:nowrap;
+}
+.fn-matrices .pos::before{
+  content:"";
+  width:9px;
+  height:9px;
+  border-radius:50%;
+  background:var(--c);
+  flex:none;
+}
+.fn-matrices .e{--c:var(--act)}
+.fn-matrices .b{--c:var(--decide)}
+.fn-matrices .a{--c:var(--record)}
+.fn-matrices .way-dot{
+  display:inline-block;
+  width:9px;
+  height:9px;
+  border-radius:50%;
+  border:1px solid var(--ink);
+  margin-right:6px;
+  vertical-align:baseline;
+}
+.fn-matrices .w1{background:var(--way-1)}
+.fn-matrices .w2{background:var(--way-2)}
+.fn-matrices .w3{background:var(--way-3)}
+.fn-matrices .ts{display:none}
+.fn-matrices .code{
+  font:650 12.5px/1.4 var(--mono);
+  color:var(--ink-2);
+  white-space:nowrap;
+  font-variant-numeric:tabular-nums;
+}
+.fn-matrices td b{font-weight:650}
+@media (max-width:1100px){
+  .fn-matrices .tf{display:none}
+  .fn-matrices .ts{display:inline}
+}
+</style>
+</head>
+<body>
+<div class="fn-matrices">
+
+<div class="tbl wide">
+<table>
+  <caption>
+    <span class="kicker">Bodies by ways</span>
+    <span class="note">Body 1 has no code. Way one is scored on bodies 2 to 9. Way two and way three are empty.</span>
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Body</th>
+      <th scope="col"><span class="way-dot w1" aria-hidden="true"></span><span class="tf">Way one</span><span class="ts">One</span></th>
+      <th scope="col"><span class="way-dot w2" aria-hidden="true"></span><span class="tf">Way two</span><span class="ts">Two</span></th>
+      <th scope="col"><span class="way-dot w3" aria-hidden="true"></span><span class="tf">Way three</span><span class="ts">Three</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><span class="n">1</span><span class="pos e">Governmental</span><span class="pos b">Constitutional</span><span class="pos a">Diplomatic</span></th>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">2</span><span class="pos e">Legal</span><span class="pos b">Judicial</span><span class="pos a">Auditorial</span></th>
+      <td><span class="code">101</span> · <b>Consequential</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">3</span><span class="pos e">Enforcement</span><span class="pos b">Intelligence</span><span class="pos a">Surveillance</span></th>
+      <td><span class="code">111</span> · <b>Deterministic</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">4</span><span class="pos e">Development logistics</span><span class="pos b">Civic welfare</span><span class="pos a">Property stewardship</span></th>
+      <td><span class="code">011</span> · <b>Propositional</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">5</span><span class="pos e">Energy resources</span><span class="pos b">Sanitation</span><span class="pos a">Preservational</span></th>
+      <td><span class="code">010</span> · <b>Environmental</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">6</span><span class="pos e">Medical</span><span class="pos b">Scientific</span><span class="pos a">Nutritional provision</span></th>
+      <td><span class="code">110</span> · <b>Reproducible</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">7</span><span class="pos e">Manufacturing</span><span class="pos b">Commercial</span><span class="pos a">Financial</span></th>
+      <td><span class="code">100</span> · <b>Contractual</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">8</span><span class="pos e">Content creation</span><span class="pos b">Media distribution</span><span class="pos a">News journalism</span></th>
+      <td><span class="code">000</span> · <b>Transmissible</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">9</span><span class="pos e">Cultural</span><span class="pos b">Educational</span><span class="pos a">Religious</span></th>
+      <td><span class="code">001</span> · <b>Transformational</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="tbl wide">
+<table>
+  <caption>
+    <span class="kicker">Three domain eights</span>
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Logical</th>
+      <th scope="col">Categorical</th>
+      <th scope="col">Contingent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><span class="n">1</span></th>
+      <td>Supposition</td>
+      <td>Ground</td>
+      <td>Contest</td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">2</span></th>
+      <td>Exposition</td>
+      <td>Uphold</td>
+      <td>Undercut</td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">3</span></th>
+      <td>Reposition</td>
+      <td>Abstract</td>
+      <td>Elaborate</td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">4</span></th>
+      <td>Juxtaposition</td>
+      <td>Liken</td>
+      <td>Contrast</td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">5</span></th>
+      <td>Proposition</td>
+      <td>Justify</td>
+      <td>Dispute</td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">6</span></th>
+      <td>Composition</td>
+      <td>Simplify</td>
+      <td>Complicate</td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">7</span></th>
+      <td>Decomposition</td>
+      <td>Redefine</td>
+      <td>Deconstruct</td>
+    </tr>
+    <tr>
+      <th scope="row"><span class="n">8</span></th>
+      <td>Deposition</td>
+      <td>Commit</td>
+      <td>Withdraw</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</div>
+</body>
+</html>

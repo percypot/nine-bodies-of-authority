@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "nine-bodies",
+    "title": "The Nine Bodies of Authority",
+    "version": "4",
+    "date": "2026-10-26",
+    "edition": "Version 4 · October 2026",
+    "source": "The Nine Bodies of Authority, Expanded edition, 30 pages, 26 October 2026",
+    "transcript": "source/transcript.json"
+  },
+  "modes": [
+    "network",
+    "visual",
+    "written",
+    "scripted",
+    "recorded"
+  ],
+  "defaultMode": "network",
+  "recordedPublic": true
+}
